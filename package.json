@@ -6,8 +6,13 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.1",
+    "ejs": "^2.6.1",
+    "ejs-lint": "^0.3.0",
     "exec": "^0.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "request": "^2.87.0",
+    "semantic-ui": "^2.3.3",
     "sync-request": "^6.0.0"
   }
 }
