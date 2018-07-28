@@ -1,0 +1,1824 @@
+{
+  "result": {
+    "cached": true,
+    "messages": [
+      {
+        "ordinalInStory": 1,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "He pulled into his parents’ circular drive.",
+        "createdAt": "2016-03-29T01:19:35.496Z",
+        "updatedAt": "2016-03-29T01:19:35.496Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "VTlF2pu0Ta",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:36.165Z",
+        "updatedAt": "2017-06-30T17:15:37.079Z",
+        "text": "Their three-story, white stone house loomed over us.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 2,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "risk": 2,
+        "objectId": "BipEkeUzA7",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 3,
+        "createdAt": "2016-03-29T01:19:36.547Z",
+        "updatedAt": "2016-03-29T01:19:36.547Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Solar lights glowed as darkness came, showing off the impeccable landscaping.",
+        "objectId": "WfVPuCEeIa",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:36.926Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 4,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "As we got out of the car, a man in a red jacket came forward and took Christian’s keys.",
+        "createdAt": "2016-03-29T01:19:36.926Z",
+        "objectId": "TSvrRIGXoB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I realized there were several other guys like him lining the circular drive as more guests pulled in behind us.",
+        "createdAt": "2016-03-29T01:19:37.278Z",
+        "updatedAt": "2016-03-29T01:19:37.278Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 5,
+        "objectId": "LJSRBwgM0e",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Christian gave me his arm, leading me to a stone path winding around the side of the house.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:37.630Z",
+        "updatedAt": "2016-03-29T01:19:37.630Z",
+        "ordinalInStory": 6,
+        "objectId": "n3uLS1v3mT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:37.992Z",
+        "updatedAt": "2016-03-29T01:19:37.992Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "We followed soft music and the hum of voices. It led us to the Carvers’ large, covered deck.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 7,
+        "objectId": "QacuKBz4WC",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:38.337Z",
+        "updatedAt": "2016-03-29T01:19:38.337Z",
+        "ordinalInStory": 8,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Lanterns glowed beneath the awning, causing polished silver utensils to gleam.",
+        "isTypingIntroDuration": 0,
+        "objectId": "TneoC7dc8D",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:38.718Z",
+        "updatedAt": "2016-03-29T01:19:38.718Z",
+        "text":
+          "A buffet table was set along one side, filled with tiny appetizers with French names probably too long and complicated for me to pronounce.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 9,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "qew691xhI0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 10,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:39.096Z",
+        "updatedAt": "2017-06-30T15:22:36.822Z",
+        "text":
+          "A bartender in a black vest and bowtie stood behind a marble countertop, serving drinks.",
+        "isTypingIntroDuration": 0,
+        "risk": 3,
+        "objectId": "1ALWj0QcWZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Girls in white shirts and black skirts walked the crowd with more tiny delicacies.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 11,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:39.477Z",
+        "updatedAt": "2016-03-29T01:19:39.477Z",
+        "objectId": "xM07vXCEoK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 12,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "A small Jazz band took up one corner of the deck.",
+        "createdAt": "2016-03-29T01:19:39.861Z",
+        "updatedAt": "2016-03-29T01:19:39.861Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "fDx4Iy4x1d",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "The guests mingled at tall, round cocktail tables, drinks in hand.",
+        "createdAt": "2016-03-29T01:19:40.279Z",
+        "updatedAt": "2016-03-29T01:19:40.279Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 13,
+        "objectId": "HLYRwBsaOQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:40.643Z",
+        "updatedAt": "2016-03-29T01:19:40.643Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 14,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Most of the people were friends of his parents, though I could see some of them had brought their children, who were all near college age.",
+        "objectId": "kBblwnsqMM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Most of the younger crowd had walked down close to the water, taking the stairs from the deck to the dock where a speedboat bobbed in the lake.",
+        "createdAt": "2016-03-29T01:19:40.971Z",
+        "updatedAt": "2016-03-29T01:19:40.971Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 15,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "uu8wiDtT9A",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:41.323Z",
+        "updatedAt": "2017-06-30T17:30:18.342Z",
+        "ordinalInStory": 16,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Close your mouth.",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "EMtyMMBpXL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 17,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Christian whispered as I stared at my surroundings.",
+        "createdAt": "2016-03-29T01:19:41.693Z",
+        "updatedAt": "2016-03-29T01:19:41.693Z",
+        "objectId": "VkWTivItlB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "I snapped my mouth shut—I hadn’t even realized I was gaping.",
+        "createdAt": "2016-03-29T01:19:42.060Z",
+        "updatedAt": "2017-06-30T15:22:55.392Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 18,
+        "risk": 2,
+        "objectId": "1G1PZxg3aE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "The key is to pretend that you’re bored.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 19,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-03-29T01:19:42.419Z",
+        "updatedAt": "2016-03-29T01:19:42.419Z",
+        "objectId": "yeAUNY5DX5",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:42.751Z",
+        "updatedAt": "2016-03-29T01:19:42.751Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Like none of this impresses you.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 20,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "MiwjnnWQsK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:43.101Z",
+        "text": "These people aren’t bored.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 21,
+        "sender": {
+          "updatedAt": "2017-08-18T15:25:42.647Z",
+          "name": "Jennifer",
+          "createdAt": "2016-03-29T01:18:57.420Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:42.599Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "nJNSiBWsgE",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:43.101Z",
+        "objectId": "ksLrCN5mWh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I hissed in his ear.",
+        "createdAt": "2016-03-29T01:19:43.622Z",
+        "updatedAt": "2017-06-30T17:24:39.806Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 22,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "risk": 1,
+        "objectId": "DNuJoUXIV8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:25:42.647Z",
+          "name": "Jennifer",
+          "createdAt": "2016-03-29T01:18:57.420Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:42.599Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "nJNSiBWsgE",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "They’re just expressionless from all of the Botox.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:44.735Z",
+        "updatedAt": "2016-03-29T01:19:44.735Z",
+        "ordinalInStory": 23,
+        "objectId": "O5sGVLv0eO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Christian, darling!",
+        "createdAt": "2016-03-29T01:19:45.120Z",
+        "updatedAt": "2016-03-29T01:19:45.120Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 24,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "GytRQrwaYT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "That voice put an end to our whispered conversation.",
+        "createdAt": "2016-03-29T01:19:45.516Z",
+        "updatedAt": "2016-03-29T01:19:45.516Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 25,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "QQoGeMvQAz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:45.844Z",
+        "updatedAt": "2017-06-30T17:44:18.663Z",
+        "ordinalInStory": 26,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I plastered a smile on my face as Christian’s mom descended on us.",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "GBvavHq8ss",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Dressed in demure navy blue, her hair in an elegant updo, Mrs. Carver didn’t seem at all imposing.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:46.216Z",
+        "updatedAt": "2016-03-29T01:19:46.216Z",
+        "ordinalInStory": 27,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "Og4q9JDiYu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:46.553Z",
+        "updatedAt": "2016-03-29T01:19:46.553Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "She stood on her tiptoes to kiss her son on the cheek before turning to inspect me.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 28,
+        "objectId": "u0nVEUCXjw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:46.909Z",
+        "updatedAt": "2016-03-29T01:19:46.909Z",
+        "ordinalInStory": 29,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Hi, Mom.",
+        "objectId": "YJImUeXXmH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Christian jerked uncomfortably at the collar of his black dress shirt.",
+        "createdAt": "2016-03-29T01:19:47.773Z",
+        "updatedAt": "2017-06-30T15:58:55.946Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 30,
+        "risk": 3,
+        "objectId": "9zt8xSBH2h",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:48.113Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 31,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Christian, you didn’t tell me you were bringing someone!",
+        "createdAt": "2016-03-29T01:19:48.113Z",
+        "objectId": "OfC59XsmG3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:48.479Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 32,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Her smile grew wide, but her eyes were sharp and assessing as she looked me over from head to toe.",
+        "createdAt": "2016-03-29T01:19:48.479Z",
+        "objectId": "QcjoS27zJL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 33,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Introduce me to your lovely friend!",
+        "createdAt": "2016-03-29T01:19:48.838Z",
+        "updatedAt": "2016-03-29T01:19:48.838Z",
+        "objectId": "Yi11Uwv1CI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "This is Jennifer.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 34,
+        "createdAt": "2016-03-29T01:19:49.202Z",
+        "updatedAt": "2016-03-29T01:19:49.202Z",
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "eXIcVUjUc3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-03-29T01:19:49.881Z",
+        "updatedAt": "2017-06-30T15:51:43.878Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "My girlfriend.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 35,
+        "risk": 2,
+        "objectId": "8ea5IhWzL0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 36,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-03-29T01:19:50.241Z",
+        "updatedAt": "2017-06-30T17:23:35.829Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Jennifer, this is my mom.",
+        "risk": 2,
+        "objectId": "DCgsbSSvUg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Her eyes lit up at the word girlfriend, and I assumed she approved of what she saw.",
+        "createdAt": "2016-03-29T01:19:50.623Z",
+        "updatedAt": "2016-03-29T01:19:50.623Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 37,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "IcnUIp5Ats",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 38,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "She reached for me like I was a long lost relative and hugged me to her chest.",
+        "createdAt": "2016-03-29T01:19:50.991Z",
+        "updatedAt": "2017-06-30T15:45:42.911Z",
+        "risk": 5,
+        "objectId": "7V68Lei0Ep",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 39,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "She was short and petite, causing me to have to bend to hug her back and almost do a face plant in Chloe’s shoes.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:51.367Z",
+        "updatedAt": "2016-03-29T01:19:51.367Z",
+        "objectId": "Mxhv53CsqI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:51.743Z",
+        "updatedAt": "2017-06-30T17:31:51.126Z",
+        "ordinalInStory": 40,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Silver bracelets jangled on her wrist as she patted my back.",
+        "isTypingIntroDuration": 0,
+        "risk": 4,
+        "objectId": "EcksIm6xa4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:52.117Z",
+        "updatedAt": "2016-03-29T01:19:52.117Z",
+        "text":
+          "Girlfriend! Christian, you didn’t tell me … oh, Jennifer, he’s so bad! My son has told me absolutely nothing about you.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 41,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "TU4N9ARGCZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Come on, honey, let me introduce you to some friends and then you can tell me all about yourself.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:52.543Z",
+        "updatedAt": "2016-03-29T01:19:52.543Z",
+        "ordinalInStory": 42,
+        "objectId": "wgUC7HTXoR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:52.903Z",
+        "updatedAt": "2016-03-29T01:19:52.903Z",
+        "text":
+          "I clung to Christian’s arm, but she wrestled it away and wrapped her manicured fingers around mine.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 43,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "nMQMqmT9Hw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I shot him a glare over my shoulder and mouthed ‘help me’, but Christian just shrugged helplessly.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 44,
+        "createdAt": "2016-03-29T01:19:53.253Z",
+        "updatedAt": "2016-03-29T01:19:53.253Z",
+        "objectId": "eQjs66v9Bj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:53.676Z",
+        "updatedAt": "2016-03-29T01:19:53.676Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Mrs. Carver propelled me toward one of the refreshment tables and I lost Christian in the crowd.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 45,
+        "objectId": "ntTGdlXi7D",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:54.061Z",
+        "ordinalInStory": 46,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "What a lovely girl you are, Jennifer.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:54.061Z",
+        "objectId": "i5asZVxMEk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 47,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:54.451Z",
+        "updatedAt": "2016-03-29T01:19:54.451Z",
+        "text": "She patted my hand affectionately.",
+        "isTypingIntroDuration": 0,
+        "objectId": "sOvAp4c37O",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:54.777Z",
+        "updatedAt": "2016-03-29T01:19:54.777Z",
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Not Christian’s usual type, but that’s all for the better, I’d say.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 48,
+        "objectId": "ZZrLH0s04H",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 49,
+        "createdAt": "2016-03-29T01:19:55.157Z",
+        "updatedAt": "2017-06-30T17:28:42.996Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:25:42.647Z",
+          "name": "Jennifer",
+          "createdAt": "2016-03-29T01:18:57.420Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:42.599Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "nJNSiBWsgE",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Thank you, Mrs. Carver.",
+        "risk": 1,
+        "objectId": "E7OHzKVS9E",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:55.492Z",
+        "updatedAt": "2016-03-29T01:19:55.492Z",
+        "text": "Now, now, honey, you can call me Donna.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 50,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "x2d665RWi4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:55.845Z",
+        "updatedAt": "2016-03-29T01:19:55.845Z",
+        "text": "And these are my friends, Twila, Bess, and Millie.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 51,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "TaJB6xPJC4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:56.236Z",
+        "updatedAt": "2017-06-30T17:21:48.513Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Three women in designer cocktail dresses smiled at me and each shook my hand.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 52,
+        "risk": 5,
+        "objectId": "CqmRPRSX8T",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Twila had a tiny sliver of a nose that looked like it had been shrunk within an inch of its life by a plastic surgeon, and blonde extensions going down her back.",
+        "createdAt": "2016-03-29T01:19:56.586Z",
+        "updatedAt": "2016-03-29T01:19:56.586Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 53,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "siQQKJ5O1i",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:56.951Z",
+        "updatedAt": "2016-03-29T01:19:56.951Z",
+        "ordinalInStory": 54,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Bess was heavyset with a friendly smile, but a very unfortunate sense of fashion; big hair and floral print—so 80s.",
+        "objectId": "yrdVgpw9B6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:57.300Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Millie was a total cougar—a redhead with a voluptuous figure.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 55,
+        "createdAt": "2016-03-29T01:19:57.300Z",
+        "objectId": "R5fPMPPj3d",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:57.672Z",
+        "updatedAt": "2016-03-29T01:19:57.672Z",
+        "text":
+          "Unfortunately, she was stuffed into a dress better suited to a sixteen year old.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 56,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "LC2YMtVtUR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:58.033Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 57,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Her face had been lifted within an inch of its life and her smile was frozen on her cheeks.",
+        "createdAt": "2016-03-29T01:19:58.033Z",
+        "objectId": "SzBqrUV3hQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 58,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "This is Christian’s girlfriend, Jennifer!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:19:58.382Z",
+        "updatedAt": "2017-06-30T15:54:38.627Z",
+        "risk": 2,
+        "objectId": "9ANEClgiKs",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:58.763Z",
+        "text":
+          "They converged on me as if I were a carnival sideshow, peppering me with questions from all sides.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 59,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:19:58.763Z",
+        "objectId": "rFvsquj0NM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:19:59.108Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 60,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I spent forty-five minutes answering some questions and dodging others.",
+        "createdAt": "2016-03-29T01:19:59.108Z",
+        "objectId": "Vxw6QJSYT1",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:59.475Z",
+        "updatedAt": "2016-03-29T01:19:59.475Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 61,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Yes, Christian and I had just started dating.",
+        "objectId": "YsWIbCzoGL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:19:59.859Z",
+        "updatedAt": "2016-03-29T01:19:59.859Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 62,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "No, it wasn’t serious.",
+        "objectId": "Xk0H5yyWXf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:00.214Z",
+        "updatedAt": "2017-06-30T15:42:59.769Z",
+        "ordinalInStory": 63,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "I am studying Nursing in school.",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "6u4btktwME",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 64,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "No, I do not plan to quit being a nurse once I got married.",
+        "createdAt": "2016-03-29T01:20:00.548Z",
+        "updatedAt": "2016-03-29T01:20:00.548Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "vafodfkgbw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:00.908Z",
+        "updatedAt": "2017-06-30T17:22:02.787Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 65,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "No, I would not drop out of college if Christian asked me to marry him.",
+        "risk": 3,
+        "objectId": "CuX5mAy9cd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:01.259Z",
+        "updatedAt": "2016-03-29T01:20:01.259Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 66,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "By the time he came back to rescue me, I was ready to tear my hair out and chuck Chloe’s shoes at them.",
+        "objectId": "Pk240iBoj3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "At least I could take out two of them and then have a decent chance at escape.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 67,
+        "createdAt": "2016-03-29T01:20:01.641Z",
+        "updatedAt": "2016-03-29T01:20:01.641Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "m9kgpCoCQZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:01.991Z",
+        "updatedAt": "2016-03-29T01:20:01.991Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Christian!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 68,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "zOUkSHkXZO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:02.344Z",
+        "updatedAt": "2017-06-30T17:36:05.258Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 69,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "Donna gushed as he elbowed his way toward me, two glasses in his hands.",
+        "risk": 4,
+        "objectId": "FDpw6vC26D",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:02.680Z",
+        "updatedAt": "2017-06-30T15:51:08.552Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 70,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Jennifer is such a sweetheart.",
+        "risk": 2,
+        "objectId": "8X2s4ihuyJ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "The girls just love her, don’t you, girls?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 71,
+        "createdAt": "2016-03-29T01:20:03.061Z",
+        "updatedAt": "2016-03-29T01:20:03.061Z",
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.614Z",
+          "updatedAt": "2017-08-18T11:31:36.106Z",
+          "name": "Donna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T11:30:25.194Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "4NHJTffB7W",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "YRgczInvdB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "The three nodded, their heads bobbing like bobble-head dolls.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 72,
+        "createdAt": "2016-03-29T01:20:03.444Z",
+        "updatedAt": "2016-03-29T01:20:03.444Z",
+        "objectId": "yeth1OQshk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:03.800Z",
+        "updatedAt": "2016-03-29T01:20:03.800Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 73,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.977Z",
+          "updatedAt": "2017-08-18T15:25:29.075Z",
+          "name": "Millie",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:29.035Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "ijbZYabiay",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Adorable.",
+        "objectId": "tkD7ECi1B7",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:04.169Z",
+        "updatedAt": "2017-06-30T15:27:26.529Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "A sweetheart.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 74,
+        "sender": {
+          "updatedAt": "2017-08-18T15:25:45.322Z",
+          "name": "Bess",
+          "createdAt": "2016-03-29T01:19:00.337Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:45.290Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "o88Eyu7yYo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "2lw0nT4Nns",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Of course she is, that’s why I’m dating her.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 75,
+        "createdAt": "2016-03-29T01:20:04.553Z",
+        "updatedAt": "2016-03-29T01:20:04.553Z",
+        "objectId": "kVmWWH1RbL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:04.905Z",
+        "updatedAt": "2016-03-29T01:20:04.905Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 76,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "He said it with a charming smile.",
+        "objectId": "Q7fw8AxTCy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:05.289Z",
+        "updatedAt": "2017-06-30T15:39:27.855Z",
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Can I have her back now?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 77,
+        "risk": 1,
+        "objectId": "5yEAzmJhfY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Millie pouted, her red lower lip jutting out ridiculously.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 78,
+        "createdAt": "2016-03-29T01:20:05.645Z",
+        "updatedAt": "2016-03-29T01:20:05.645Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "J0EvtFduKB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-03-29T01:20:05.997Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 79,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I didn’t miss the way her eyes traveled over him with interest.",
+        "createdAt": "2016-03-29T01:20:05.997Z",
+        "objectId": "vHYnaOU03d",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:06.379Z",
+        "updatedAt": "2016-03-29T01:20:06.379Z",
+        "text": "Gross.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 80,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "K9vBA3T6eT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:32:14.386Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "You treat her nice, Christian.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 81,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:59.977Z",
+          "updatedAt": "2017-08-18T15:25:29.075Z",
+          "name": "Millie",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:29.035Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "ijbZYabiay",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-03-29T01:20:06.776Z",
+        "risk": 3,
+        "objectId": "43rd0duh5K",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 82,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "She slapped at his muscular bicep playfully.",
+        "createdAt": "2016-03-29T01:20:07.142Z",
+        "updatedAt": "2016-03-29T01:20:07.142Z",
+        "objectId": "P5aZJDOQkw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Christian shifted uncomfortably under the attention.",
+        "createdAt": "2016-03-29T01:20:07.488Z",
+        "updatedAt": "2016-03-29T01:20:07.488Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 83,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "objectId": "hFuHjV10RK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 84,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "For a guy who got so much attention from girls, I wouldn’t have expected it.",
+        "createdAt": "2016-03-29T01:20:07.853Z",
+        "updatedAt": "2017-06-30T17:30:52.100Z",
+        "risk": 1,
+        "objectId": "ERT0YlSyl2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T17:20:40.213Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 85,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Luke would have smiled and charmed her socks off.",
+        "createdAt": "2016-03-29T01:20:08.215Z",
+        "risk": 5,
+        "objectId": "CeEOSm7Edc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 86,
+        "createdAt": "2016-03-29T01:20:08.590Z",
+        "updatedAt": "2016-03-29T01:20:08.590Z",
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "I will.",
+        "isTypingIntroDuration": 0,
+        "objectId": "I0leGwZW0M",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 87,
+        "sender": {
+          "createdAt": "2016-03-29T01:18:58.520Z",
+          "updatedAt": "2017-08-18T15:24:49.346Z",
+          "name": "Christian",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:49.316Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "VOrVUluvE2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Jenn?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:20:08.964Z",
+        "updatedAt": "2017-06-30T17:31:32.736Z",
+        "risk": 1,
+        "objectId": "EZ9sz6rBzS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 88,
+        "sender": {
+          "updatedAt": "2017-08-18T15:25:42.647Z",
+          "name": "Jennifer",
+          "createdAt": "2016-03-29T01:18:57.420Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:25:42.599Z"
+          },
+          "ACL": { "*": { "read": true }, "tkGGZXWE9S": { "write": true } },
+          "objectId": "nJNSiBWsgE",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "createdAt": "2016-03-29T01:20:09.349Z",
+        "updatedAt": "2016-03-29T01:20:09.349Z",
+        "text": "It was nice to meet you.",
+        "isTypingIntroDuration": 0,
+        "objectId": "YtsBPSs8s9",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-03-29T01:20:09.712Z",
+        "updatedAt": "2016-03-29T01:20:09.712Z",
+        "ordinalInStory": 89,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text":
+          "I said goodbye to the four ladies before practically running into Christian’s arms.",
+        "isTypingIntroDuration": 0,
+        "objectId": "NLFwLeI5yF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "f5wKdY4pp6"
+        },
+        "text": "Without giving them a chance to respond, we made our getaway.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-03-29T01:20:10.087Z",
+        "updatedAt": "2016-03-29T01:20:10.087Z",
+        "ordinalInStory": 90,
+        "objectId": "bO70awugiE",
+        "__type": "Object",
+        "className": "Message"
+      }
+    ]
+  }
+}

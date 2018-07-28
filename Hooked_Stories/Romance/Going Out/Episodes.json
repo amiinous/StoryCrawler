@@ -1,0 +1,297 @@
+{
+  "result": {
+    "stories": [
+      {
+        "pendingDeletion": false,
+        "createdAt": "2016-04-04T03:56:30.818Z",
+        "episodeIndex": 1,
+        "storyDescription":
+          "Brian: Okay I’ve been typing and retyping this text message for like 2 hrs",
+        "episodeTitle": null,
+        "characters": [
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "5UaBXs6rva"
+          },
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "gXK5tEdOC6"
+          }
+        ],
+        "seriesTitle": "Going Out",
+        "title": "Going Out",
+        "updatedAt": "2018-07-04T05:10:06.087Z",
+        "inappropriateContent": false,
+        "trackMessage": false,
+        "author": {
+          "_perishable_token": "ayyGgoW86j3xRp1mq4faSPLTb",
+          "createdAt": "2016-02-02T22:48:09.459Z",
+          "updatedAt": "2018-06-30T19:17:38.197Z",
+          "username": "MaxwellKlausner",
+          "waitlist": false,
+          "autoFolloweesFollowers": [
+            {
+              "__type": "Pointer",
+              "className": "_User",
+              "objectId": "meGKk6O16x"
+            },
+            {
+              "__type": "Pointer",
+              "className": "_User",
+              "objectId": "E7LeC9EGbA"
+            }
+          ],
+          "email": "mklaus36@aol.com",
+          "facebookId": "10153419287256519",
+          "firstName": "Maxwell",
+          "fullName": "Maxwell Klausner",
+          "lastName": "Klausner",
+          "profilePictureSmall": {
+            "__type": "File",
+            "name": "mfp_a9eeb41f4c24ac11cc9b3901c1863ecdfile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a9eeb41f4c24ac11cc9b3901c1863ecdfile"
+          },
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "mfp_a350b01eaa5f923158c610527c32076ffile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a350b01eaa5f923158c610527c32076ffile"
+          },
+          "readCount": 66,
+          "loveCount": 1,
+          "followerCount": 389,
+          "followingCount": 6,
+          "bookmarkCount": 0,
+          "writeCount": 12,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-15T12:34:00.307Z"
+          },
+          "bio": "",
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-27T00:39:11.398Z"
+          },
+          "canonicalUsername": "maxwellklausner",
+          "genreHistogram": {
+            "Thriller": 19,
+            "Drama": 12,
+            "Romance": 28,
+            "Comedy": 2,
+            "Mystery": 5,
+            "Horror": 5
+          },
+          "genreHistogramUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-07-09T02:36:05.504Z"
+          },
+          "lastSeenAt": { "__type": "Date", "iso": "2018-06-25T18:09:30.689Z" },
+          "feedUpdatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-25T16:03:05.061Z"
+          },
+          "lastAuthoredUntitledNumber": 2,
+          "digitsId": "750525271527284738",
+          "phone": "+12013362110",
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2017-08-22T01:13:08.521Z"
+          },
+          "readingStreakLastEvent": {
+            "__type": "Date",
+            "iso": "2018-06-25T16:09:00.052Z"
+          },
+          "readingStreak": 1,
+          "dailyNotifications": [
+            "20170312",
+            "FVxrCf8F0y",
+            "20170313",
+            "7Y0hYR1zKL",
+            "20170314",
+            "OJyPmLxZtu",
+            "20170315",
+            "owkDjF268k",
+            "20170316",
+            "Obedpn5TXp",
+            "20170317",
+            "HwOFFCkqGE",
+            "20170318",
+            "Z3DKS37Zw0"
+          ],
+          "lastDailyNotificationEmailSentOn": "20170318",
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-30T19:17:38.186Z"
+          },
+          "firebaseId": "750525271527284738",
+          "needWelcomeEmail": false,
+          "appsFlyerUID": "1510064675000-361522",
+          "idfa": "6FC279FB-85DE-4414-AFE1-DB8C614F09E8",
+          "preferredLanguage": "en",
+          "lastNotificationCheckedOn": {
+            "__type": "Date",
+            "iso": "2018-06-02T00:57:17.305Z"
+          },
+          "objectId": "fopij7B49E",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "episodeCount": 1,
+        "uid": "goingout",
+        "tags": [""],
+        "canonicalTitle": "going out",
+        "hidden": false,
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "rNiUOgwikf"
+          }
+        ],
+        "editorsChoice": false,
+        "episodeSeriesName": null,
+        "genre": "Romance",
+        "searchTerms": [
+          "g",
+          "go",
+          "goi",
+          "goin",
+          "going",
+          "k",
+          "kl",
+          "kla",
+          "klau",
+          "klaus",
+          "klausn",
+          "klausne",
+          "klausner",
+          "m",
+          "ma",
+          "max",
+          "maxw",
+          "maxwe",
+          "maxwel",
+          "maxwell",
+          "maxwellk",
+          "maxwellkl",
+          "maxwellkla",
+          "maxwellklau",
+          "maxwellklaus",
+          "maxwellklausn",
+          "maxwellklausne",
+          "maxwellklausner",
+          "o",
+          "ou",
+          "out"
+        ],
+        "wordCount": 1039,
+        "editedAt": { "__type": "Date", "iso": "2017-08-20T15:20:42.011Z" },
+        "readCount": 12170,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T10:15:05.464Z"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "cc39b97f56b9e104c1521d1b214c66bd_file.bin",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/cc39b97f56b9e104c1521d1b214c66bd_file.bin"
+        },
+        "coverImageLoRes": {
+          "__type": "File",
+          "name":
+            "mfp_5e4282b5192d5e9f838a24246a1950681369-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_5e4282b5192d5e9f838a24246a1950681369-thumbnail-lores.jpg"
+        },
+        "coverImageFile": {
+          "__type": "File",
+          "name": "mfp_73ce216908ac35f8ed9a6fe9bc6383bfgoingout.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_73ce216908ac35f8ed9a6fe9bc6383bfgoingout.jpg"
+        },
+        "inappropriateContentFlaggers": [],
+        "loveCount": 95,
+        "commentCount": 20,
+        "createdOutsideApp": true,
+        "readVelocity": 41,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "PE8id6J1mi"
+        },
+        "risk": 5,
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:22:13.294Z"
+        },
+        "previousReadVelocity": 40,
+        "readAcceleration": 1,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:05:00.119Z"
+        },
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T04:55:00.933Z"
+        },
+        "loveRatio": 0.0078060805258833195,
+        "commentRatio": 0.0016479894528675016,
+        "authorsObjectIds": ["fopij7B49E"],
+        "recommendable": true,
+        "sentimentAverage": 2.0000000000000004,
+        "sentimentCount": 16,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T15:19:05.380Z"
+        },
+        "seriesIdentifier": "fbd3f3dd-7c3d-534d-fb44-a622f3bc507c",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/9kFOggXR8n/video_5905d2121455f.mov",
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:10:01.935Z"
+        },
+        "completionRate_ios": 47.62564836344124,
+        "completionRate_android": 11.382741465088351,
+        "completionRate": 35.206631003468345,
+        "seriesCompletionRate_ios": 47.62564836344124,
+        "seriesCompletionRate_android": 11.382741465088351,
+        "seriesCompletionRate": 35.206631003468345,
+        "started_ios": 22364,
+        "completed_ios": 10651,
+        "seriesAverageCompletionRate_ios": 47.62564836344124,
+        "seriesAverageCompletionRate_android": 11.382741465088351,
+        "seriesAverageCompletionRate": 35.206631003468345,
+        "metascore": 41.42886080272632,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:26:10.009Z"
+        },
+        "searchable": true,
+        "readable": true,
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:30:23.298Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 1,
+        "started_android": 11658,
+        "rd_started_ios": 1627,
+        "rd_started_android": 6428,
+        "rd_completed_ios": 997,
+        "rd_completed_android": 374,
+        "rd_completionRate_ios": 61.27842655193608,
+        "rd_completionRate_android": 5.81829495955196,
+        "completed_android": 1327,
+        "ACL": { "*": { "read": true }, "fopij7B49E": { "write": true } },
+        "objectId": "9kFOggXR8n",
+        "__type": "Object",
+        "className": "Story"
+      }
+    ]
+  }
+}

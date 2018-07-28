@@ -1,0 +1,4140 @@
+{
+  "result": {
+    "cached": true,
+    "messages": [
+      {
+        "imageFile": {
+          "__type": "File",
+          "name": "mfp_d0c4b22699f82292c35db00c253cd21dpreggers.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_d0c4b22699f82292c35db00c253cd21dpreggers.jpg"
+        },
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 1,
+        "createdAt": "2016-04-20T04:34:02.939Z",
+        "updatedAt": "2016-04-20T05:01:04.307Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "mediaHeight": 652,
+        "mediaWidth": 1288,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2016-04-20T05:01:04.296Z"
+        },
+        "objectId": "Nj6bVgbUZN",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:03.637Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 2,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Is that a toothbrush?",
+        "createdAt": "2016-04-20T04:34:03.637Z",
+        "objectId": "HGIzJfVmZI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:04.000Z",
+        "updatedAt": "2016-04-20T04:34:04.000Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "That would be a pregnancy test.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 3,
+        "objectId": "kLYR7kcOXH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Lol sucks to be that chick.",
+        "createdAt": "2016-04-20T04:34:04.386Z",
+        "updatedAt": "2016-04-20T04:34:04.386Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 4,
+        "objectId": "Vwv0k6YTBr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "My pregnancy test.",
+        "createdAt": "2016-04-20T04:34:04.802Z",
+        "updatedAt": "2016-04-20T04:34:04.802Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 5,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "VXOevYvf3U",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:05.126Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 6,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Negative?",
+        "createdAt": "2016-04-20T04:34:05.126Z",
+        "objectId": "rMVjTJzFwy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Positive.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:05.503Z",
+        "updatedAt": "2016-04-20T04:34:05.503Z",
+        "ordinalInStory": 7,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "6lLc7Wrmaf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 8,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:05.905Z",
+        "updatedAt": "2016-04-20T04:34:05.905Z",
+        "text": "Take your time.",
+        "isTypingIntroDuration": 0,
+        "objectId": "aupjTS8XjK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "hahahahahahahahahahaha",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 9,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:06.266Z",
+        "updatedAt": "2016-04-20T04:34:06.266Z",
+        "objectId": "dcHLa6NoZS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 10,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "?",
+        "createdAt": "2016-04-20T04:34:06.610Z",
+        "updatedAt": "2016-04-20T04:34:06.610Z",
+        "objectId": "CwAQtpWeCg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:06.994Z",
+        "ordinalInStory": 11,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "hahahahahaha lmao",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:06.994Z",
+        "objectId": "tGvIMltIth",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Em.",
+        "createdAt": "2016-04-20T04:34:07.362Z",
+        "updatedAt": "2016-04-20T04:34:07.362Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 12,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "AVsuH2alFv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 13,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You got me so bad right there.",
+        "createdAt": "2016-04-20T04:34:07.717Z",
+        "updatedAt": "2016-04-20T04:34:07.717Z",
+        "objectId": "66OQdCaShD",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:08.083Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 14,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m not joking, Dom.",
+        "createdAt": "2016-04-20T04:34:08.083Z",
+        "objectId": "BWJ3n4hZwQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:08.451Z",
+        "updatedAt": "2016-04-20T04:34:08.451Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "hahahahahahahahahahahahahahahahahahahaha",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 15,
+        "objectId": "2eFEZHwQgd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "hahahahahahahah",
+        "createdAt": "2016-04-20T04:34:08.826Z",
+        "updatedAt": "2017-06-30T15:35:20.207Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 16,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "3Stuv3eDL8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:09.203Z",
+        "updatedAt": "2016-04-20T04:34:09.203Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "hahahaha",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 17,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "BuV1tfENUT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You’re not actually kidding, are you?",
+        "createdAt": "2016-04-20T04:34:09.566Z",
+        "updatedAt": "2016-04-20T04:34:09.566Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 18,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "DREvqtmkir",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "haha",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 19,
+        "createdAt": "2016-04-20T04:34:09.933Z",
+        "updatedAt": "2016-04-20T04:34:09.933Z",
+        "objectId": "c99NT3ifJ2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m pregnant.",
+        "createdAt": "2016-04-20T04:34:10.282Z",
+        "updatedAt": "2016-04-20T04:34:10.282Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 20,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "ArDT2VItl8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:10.644Z",
+        "updatedAt": "2016-04-20T04:34:10.644Z",
+        "ordinalInStory": 21,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Dom?",
+        "isTypingIntroDuration": 0,
+        "objectId": "7A62Y9Tm5x",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Can we, like, talk on the phone? Or can I come over?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 22,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:11.009Z",
+        "updatedAt": "2016-04-20T04:34:11.009Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "dUHVDlfhyx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "No, I’m at church.",
+        "createdAt": "2016-04-20T04:34:11.372Z",
+        "updatedAt": "2016-04-20T04:34:11.372Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 23,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "83oZawzFC8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You’re texting at church?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 24,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:11.742Z",
+        "updatedAt": "2016-04-20T04:34:11.742Z",
+        "objectId": "Fc1H9GWAHE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:12.118Z",
+        "ordinalInStory": 25,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I just peed on a stick in the bathroom at church.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:12.118Z",
+        "objectId": "AolsneInBc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I think that might be one step worse.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 26,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:12.477Z",
+        "updatedAt": "2016-04-20T04:34:12.477Z",
+        "objectId": "gRJPPR0n9x",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Right.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:12.838Z",
+        "updatedAt": "2016-04-20T04:34:12.838Z",
+        "ordinalInStory": 27,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "QLDIDcpnPT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 28,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:13.208Z",
+        "updatedAt": "2016-04-20T04:34:13.208Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So...",
+        "objectId": "cSaZq8XFAX",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 29,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "What does this mean?",
+        "createdAt": "2016-04-20T04:34:13.629Z",
+        "updatedAt": "2016-04-20T04:34:13.629Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "HdQTFl9Djb",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:14.005Z",
+        "updatedAt": "2016-04-20T04:34:14.005Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "It means I’m pregnant.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 30,
+        "objectId": "PEouGtqAgA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:14.360Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Can we come up with another word for that?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 31,
+        "createdAt": "2016-04-20T04:34:14.360Z",
+        "objectId": "24Pw1n8Dfh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 32,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:14.687Z",
+        "updatedAt": "2016-04-20T04:34:14.687Z",
+        "text": "I’m kind of freaking out over here.",
+        "isTypingIntroDuration": 0,
+        "objectId": "ABdb0cyUnz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:15.190Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "You’re kind of freaking out? I have a person growing inside of me right now.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 33,
+        "createdAt": "2016-04-20T04:34:15.190Z",
+        "objectId": "5yAgYDFvXe",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:15.561Z",
+        "updatedAt": "2016-04-20T04:34:15.561Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "Well, it’s not exactly a person yet. It’s basically just jizz still.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 34,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "eLqpMc1Z2M",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "And an egg.",
+        "createdAt": "2016-04-20T04:34:15.923Z",
+        "updatedAt": "2016-04-20T04:34:15.923Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 35,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "rNSzkjhU6G",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So it’s semen sunny side up.",
+        "createdAt": "2016-04-20T04:34:16.305Z",
+        "updatedAt": "2016-04-20T04:34:16.305Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 36,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "8mzdRDHGeA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:16.656Z",
+        "updatedAt": "2016-04-20T04:34:16.656Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m gonna puke.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 37,
+        "objectId": "eyH4hUUwDk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Morning sickness?",
+        "createdAt": "2016-04-20T04:34:17.015Z",
+        "updatedAt": "2016-04-20T04:34:17.015Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 38,
+        "objectId": "tbptPxk81r",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "No, you’re disgusting.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 39,
+        "createdAt": "2016-04-20T04:34:17.382Z",
+        "updatedAt": "2016-04-20T04:34:17.382Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "4wzetGHrUs",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 40,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "And I’m pregnant.",
+        "createdAt": "2016-04-20T04:34:17.737Z",
+        "updatedAt": "2016-04-20T04:34:17.737Z",
+        "objectId": "JneplITHTe",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:18.099Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 41,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Holy crap, I’m pregnant.",
+        "createdAt": "2016-04-20T04:34:18.099Z",
+        "objectId": "oVyfTddQTr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:18.450Z",
+        "updatedAt": "2016-04-20T04:34:18.450Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Shit.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 42,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "baQ7NjKn29",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:18.809Z",
+        "updatedAt": "2016-04-20T04:34:18.809Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "How about eggplant?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 43,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "CwjIPlyiVc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:19.204Z",
+        "updatedAt": "2016-04-20T04:34:19.204Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 44,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "What?",
+        "objectId": "K5B6TfJLnf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 45,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Eggplant. Instead of the “P” word.",
+        "createdAt": "2016-04-20T04:34:19.568Z",
+        "updatedAt": "2016-04-20T04:34:19.568Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "ZI96BQMJUU",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:19.978Z",
+        "updatedAt": "2016-04-20T04:34:19.978Z",
+        "ordinalInStory": 46,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m eggplant?",
+        "objectId": "jotsEMGS0n",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 47,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You’re eggplant.",
+        "createdAt": "2016-04-20T04:34:20.329Z",
+        "updatedAt": "2016-04-20T04:34:20.329Z",
+        "objectId": "4SAKvLsCKj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 48,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Okay.",
+        "createdAt": "2016-04-20T04:34:20.709Z",
+        "updatedAt": "2016-04-20T04:34:20.709Z",
+        "objectId": "55j3rlQJN2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:21.055Z",
+        "ordinalInStory": 49,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "...",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:21.055Z",
+        "objectId": "3j77tTZlRp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:21.416Z",
+        "updatedAt": "2016-04-20T04:34:21.416Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You okay?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 50,
+        "objectId": "V46PlPCRl1",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "The pastor’s talking about sex out of wedlock.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:21.784Z",
+        "updatedAt": "2016-04-20T04:34:21.784Z",
+        "ordinalInStory": 51,
+        "objectId": "aVqUcWEFJz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Basically skewering me in front of the whole congregation.",
+        "createdAt": "2016-04-20T04:34:22.149Z",
+        "updatedAt": "2016-04-20T04:34:22.149Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 52,
+        "objectId": "YeNhxV1VOS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 53,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:22.521Z",
+        "updatedAt": "2016-04-20T04:34:22.521Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Well he doesn’t know that.",
+        "objectId": "O7BqVqmXMo",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 54,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Are you seriously defending the pastor right now?",
+        "createdAt": "2016-04-20T04:34:22.886Z",
+        "updatedAt": "2017-06-30T15:35:20.206Z",
+        "isTypingIntroDuration": 0,
+        "risk": 3,
+        "objectId": "4CWSRWqYQd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:23.243Z",
+        "updatedAt": "2016-04-20T04:34:23.243Z",
+        "text": "Well...",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 55,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "G0mYOvwoDK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:23.609Z",
+        "updatedAt": "2016-04-20T04:34:23.609Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "He literally just said:",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 56,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "imp4b0vvln",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:23.952Z",
+        "updatedAt": "2016-04-20T04:34:23.952Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "“those that fornicate pre-marriage are doomed to an eternity in the fiery pits of hell!”",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 57,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "IXyfPJZcJd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:24.341Z",
+        "updatedAt": "2016-04-20T04:34:24.341Z",
+        "ordinalInStory": 58,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "He did not.",
+        "objectId": "zMnFXXTgDT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:24.714Z",
+        "updatedAt": "2016-04-20T04:34:24.714Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 59,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Okay, he didn’t. But still.",
+        "objectId": "5plcXNzzKr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:25.075Z",
+        "updatedAt": "2016-04-20T04:34:25.075Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 60,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "People are looking at me.",
+        "objectId": "jR8hbc3brE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 61,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:25.445Z",
+        "updatedAt": "2016-04-20T04:34:25.445Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You’re texting in church.",
+        "objectId": "c2i81zL1wo",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:25.806Z",
+        "ordinalInStory": 62,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Right.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:25.806Z",
+        "objectId": "Lu3upKHlix",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 63,
+        "createdAt": "2016-04-20T04:34:26.172Z",
+        "updatedAt": "2016-04-20T04:34:26.172Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "ok",
+        "isTypingIntroDuration": 0,
+        "objectId": "7aoxrleZCK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 64,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:26.541Z",
+        "updatedAt": "2016-04-20T04:34:26.541Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So I’ve been doing some research.",
+        "isTypingIntroDuration": 0,
+        "objectId": "xnEcEYg9ox",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "On what?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 65,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:26.904Z",
+        "updatedAt": "2016-04-20T04:34:26.904Z",
+        "objectId": "E9yQcdyVyc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:27.298Z",
+        "updatedAt": "2016-04-20T04:34:27.298Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 66,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Babies and shit.",
+        "objectId": "IU9DVimnwQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 67,
+        "createdAt": "2016-04-20T04:34:27.652Z",
+        "updatedAt": "2016-04-20T04:34:27.652Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Blegh. I don’t like that word either.",
+        "isTypingIntroDuration": 0,
+        "objectId": "mD1Y1IGzWx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:28.014Z",
+        "updatedAt": "2016-04-20T04:34:28.014Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Babies?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 68,
+        "objectId": "3aCl4O9qG0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "No, shit.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:28.381Z",
+        "updatedAt": "2016-04-20T04:34:28.381Z",
+        "ordinalInStory": 69,
+        "objectId": "zdTluvIOcP",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:28.776Z",
+        "updatedAt": "2016-04-20T04:34:28.776Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 70,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "I can’t tell if that was like you sarcastically saying that you meant the word “shit” or like “No shit, Sherlock.”",
+        "objectId": "EtCvCvwRPy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:29.118Z",
+        "updatedAt": "2016-04-20T04:34:29.118Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 71,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I guess both would apply.",
+        "objectId": "jEHJ0KIUWy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:29.465Z",
+        "updatedAt": "2017-06-30T15:22:47.318Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Kumquat.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 72,
+        "risk": 1,
+        "objectId": "Kz33FqrrAc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:29.859Z",
+        "updatedAt": "2017-06-30T15:35:20.204Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 73,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Excuse you.",
+        "risk": 1,
+        "objectId": "GBymWcfW0V",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Instead of the “B” word.",
+        "createdAt": "2016-04-20T04:34:30.226Z",
+        "updatedAt": "2016-04-20T04:34:30.226Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 74,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "oohyRGqqep",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 75,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:30.599Z",
+        "updatedAt": "2017-06-30T15:35:20.202Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Huh.",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "vS27YkBnx9",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 76,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m eggplant with a kumquat.",
+        "createdAt": "2016-04-20T04:34:30.966Z",
+        "updatedAt": "2017-06-30T15:35:20.198Z",
+        "risk": 1,
+        "objectId": "kUHsAEQSQK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "This is starting to seem less intimidating.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 77,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:31.343Z",
+        "updatedAt": "2016-04-20T04:34:31.343Z",
+        "objectId": "LAG7il5PtO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So...",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 78,
+        "createdAt": "2016-04-20T04:34:31.754Z",
+        "updatedAt": "2016-04-20T04:34:31.754Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "kMUgt39Gvz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "So...",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 79,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:32.094Z",
+        "updatedAt": "2016-04-20T04:34:32.094Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "nSqSDRJT4d",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:32.453Z",
+        "updatedAt": "2016-04-20T04:34:32.453Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So...",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 80,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "u4Ap7oZc9o",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "What kind of research have you been doing?",
+        "createdAt": "2016-04-20T04:34:32.801Z",
+        "updatedAt": "2016-04-20T04:34:32.801Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 81,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "kw4XyvFfUw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:33.158Z",
+        "updatedAt": "2016-04-20T04:34:33.158Z",
+        "ordinalInStory": 82,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "You know, just stuff.",
+        "objectId": "0wjv2kmbsS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Eggplant farms, kumquat juice, fruit medleys.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:33.508Z",
+        "updatedAt": "2016-04-20T04:34:33.508Z",
+        "ordinalInStory": 83,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "9A3cu4TCUH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:33.864Z",
+        "updatedAt": "2016-04-20T04:34:33.864Z",
+        "ordinalInStory": 84,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I literally have no idea what you’re talking about.",
+        "objectId": "lcz9RLVJhF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 85,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:34.205Z",
+        "updatedAt": "2016-04-20T04:34:34.205Z",
+        "text": "Hospitals, breast milk, adoption centers.",
+        "isTypingIntroDuration": 0,
+        "objectId": "PdeJbhYTCv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 86,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:34.578Z",
+        "updatedAt": "2016-04-20T04:34:34.578Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "That sounds way more terrifying.",
+        "objectId": "UdBad33LQS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "...and breast milk?",
+        "createdAt": "2016-04-20T04:34:34.958Z",
+        "updatedAt": "2016-04-20T04:34:34.958Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 87,
+        "objectId": "aRIjKoBZKR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:35.324Z",
+        "updatedAt": "2016-04-20T04:34:35.324Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "Hey now, this is a pretty shitty situation and that’s the most fun thing about it.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 88,
+        "objectId": "O71MwRMzkO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "xD",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 89,
+        "createdAt": "2016-04-20T04:34:35.700Z",
+        "updatedAt": "2017-06-30T15:35:20.212Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "W4ShcGcq00",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:36.054Z",
+        "updatedAt": "2017-06-30T15:35:20.209Z",
+        "ordinalInStory": 90,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Adoption?",
+        "risk": 2,
+        "objectId": "E5onqkl6vi",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 91,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:36.393Z",
+        "updatedAt": "2016-04-20T04:34:36.393Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Well, I don’t know, you know...",
+        "isTypingIntroDuration": 0,
+        "objectId": "SmsjPXE6BC",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 92,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I feel like that’s something we’ll talk about.",
+        "createdAt": "2016-04-20T04:34:36.786Z",
+        "updatedAt": "2016-04-20T04:34:36.786Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "C6dgzG4SUq",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 93,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:37.159Z",
+        "updatedAt": "2016-04-20T04:34:37.159Z",
+        "text": "Yeah.",
+        "objectId": "jJpT6roCN4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Are you still at church?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:37.530Z",
+        "updatedAt": "2016-04-20T04:34:37.530Z",
+        "ordinalInStory": 94,
+        "objectId": "6huRuED8O7",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Yeah, these guys talk forever.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 95,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:37.887Z",
+        "updatedAt": "2016-04-20T04:34:37.887Z",
+        "objectId": "D1LDFIJk93",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:38.258Z",
+        "updatedAt": "2016-04-20T04:34:38.258Z",
+        "ordinalInStory": 96,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "They’re passing around a donation bin now.",
+        "isTypingIntroDuration": 0,
+        "objectId": "CEgi6rjFl0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Steal it.",
+        "createdAt": "2016-04-20T04:34:38.618Z",
+        "updatedAt": "2016-04-20T04:34:38.618Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 97,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "4FY86amWxx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:38.998Z",
+        "updatedAt": "2016-04-20T04:34:38.998Z",
+        "text": "On it.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 98,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "kMiz1IWp2q",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:39.364Z",
+        "updatedAt": "2016-04-20T04:34:39.364Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "So...what about the other thing?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 99,
+        "objectId": "bs2H407UOT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:39.729Z",
+        "updatedAt": "2016-04-20T04:34:39.729Z",
+        "text": "What other thing?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 100,
+        "objectId": "9skge95O7I",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:40.096Z",
+        "updatedAt": "2016-04-20T04:34:40.096Z",
+        "text": "You know, the other “A”, not adoption, but...",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 101,
+        "objectId": "JjzslBnx9U",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:40.480Z",
+        "updatedAt": "2017-06-30T15:22:47.311Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 102,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Oh, right.",
+        "risk": 1,
+        "objectId": "oh6MDPkFEu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 103,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:40.846Z",
+        "updatedAt": "2016-04-20T04:34:40.846Z",
+        "text": "Well, I mean, I’ll support you no matter what.",
+        "isTypingIntroDuration": 0,
+        "objectId": "ZY271wUwxy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:41.207Z",
+        "updatedAt": "2016-04-20T04:34:41.207Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 104,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I think we need another word for it.",
+        "objectId": "Zlgn8ugox8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "You pick this one, I brought the world “eggplant” and “kumquat”.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 105,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:41.593Z",
+        "updatedAt": "2016-04-20T04:34:41.593Z",
+        "objectId": "VqexWQJtLo",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 106,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "And what a gift that was.",
+        "createdAt": "2016-04-20T04:34:41.969Z",
+        "updatedAt": "2016-04-20T04:34:41.969Z",
+        "objectId": "NUA5O3Jghm",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I’m looking around for inspiration.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 107,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:42.326Z",
+        "updatedAt": "2016-04-20T04:34:42.326Z",
+        "objectId": "zuAcJz6gDl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:42.690Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 108,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "All I’m getting is “crucify”",
+        "createdAt": "2016-04-20T04:34:42.690Z",
+        "objectId": "Jg55utE59A",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:43.055Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 109,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I’m eggplant, but I’m crucifying my kumquat.",
+        "createdAt": "2016-04-20T04:34:43.055Z",
+        "objectId": "CIgTjt5WPv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:43.429Z",
+        "updatedAt": "2016-04-20T04:34:43.429Z",
+        "text": "Wow. That’s dark.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 110,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "0BrYAQrY4e",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:43.772Z",
+        "ordinalInStory": 111,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Let’s backtrack from that one for now.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:43.772Z",
+        "objectId": "RRBOf6IJnl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "This is hard.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:44.139Z",
+        "updatedAt": "2016-04-20T04:34:44.139Z",
+        "ordinalInStory": 112,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "sdJbqPlbRg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:44.504Z",
+        "updatedAt": "2016-04-20T04:34:44.504Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 113,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Yeah.",
+        "objectId": "0U6Xup6qnn",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:44.880Z",
+        "updatedAt": "2016-04-20T04:34:44.880Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 114,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "I think most of it might have to do with the fact I can’t hug you.",
+        "objectId": "nluGa53DpQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I was just thinking the same thing.",
+        "createdAt": "2016-04-20T04:34:45.276Z",
+        "updatedAt": "2016-04-20T04:34:45.276Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 115,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "mM26OqJ82j",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "The sermon just ended. I think I’m going to talk to the pastor.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:45.642Z",
+        "updatedAt": "2016-04-20T04:34:45.642Z",
+        "ordinalInStory": 116,
+        "objectId": "9oGApYmras",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:46.014Z",
+        "updatedAt": "2016-04-20T04:34:46.014Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Is that the best idea? What if we decide to eat the kumquat?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 117,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "HPWkSs1Pfu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:46.360Z",
+        "ordinalInStory": 118,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "...what?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:46.360Z",
+        "objectId": "eTt6Bxw673",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I ditched “crucify.”",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 119,
+        "createdAt": "2016-04-20T04:34:46.715Z",
+        "updatedAt": "2016-04-20T04:34:46.715Z",
+        "objectId": "94NJZGDTyg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:47.088Z",
+        "updatedAt": "2016-04-20T04:34:47.088Z",
+        "ordinalInStory": 120,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "And you thought “eat” might be more appropriate?",
+        "isTypingIntroDuration": 0,
+        "objectId": "cBdevikNiA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 121,
+        "createdAt": "2016-04-20T04:34:47.448Z",
+        "updatedAt": "2016-04-20T04:34:47.448Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I was under pressure.",
+        "objectId": "UZ9i4itOnp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "How about “give back the eggplant?”",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 122,
+        "createdAt": "2016-04-20T04:34:47.805Z",
+        "updatedAt": "2016-04-20T04:34:47.805Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "G0aL4sGGhX",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:48.175Z",
+        "text": "That’s not bad.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 123,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "createdAt": "2016-04-20T04:34:48.175Z",
+        "objectId": "hK2nxqxLrq",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:48.561Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 124,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "Well if we do, then it was our decision. It doesn’t matter what he thinks.",
+        "createdAt": "2016-04-20T04:34:48.561Z",
+        "objectId": "LBS11i2CE0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 125,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Okay.",
+        "createdAt": "2016-04-20T04:34:48.903Z",
+        "updatedAt": "2016-04-20T04:34:48.903Z",
+        "objectId": "1pr8OLQlIe",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Well text me when you finish.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:49.297Z",
+        "updatedAt": "2016-04-20T04:34:49.297Z",
+        "ordinalInStory": 126,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "SxMYTTkRGA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I’ll leave work early and come right over.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2016-04-20T04:34:49.661Z",
+        "updatedAt": "2016-04-20T04:34:49.661Z",
+        "ordinalInStory": 127,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "zCZQTzAKB0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:50.026Z",
+        "updatedAt": "2016-04-20T04:34:50.026Z",
+        "text": "You’ve been texting at work? :O",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 128,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "w6jYifDX7C",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 129,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I know, right? I’m a terrible person.",
+        "createdAt": "2016-04-20T04:34:50.390Z",
+        "updatedAt": "2016-04-20T04:34:50.390Z",
+        "objectId": "ta2R1uSyB4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "All done.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 130,
+        "createdAt": "2016-04-20T04:34:50.764Z",
+        "updatedAt": "2016-04-20T04:34:50.764Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "4aLhCasUbN",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:51.128Z",
+        "updatedAt": "2016-04-20T04:34:51.128Z",
+        "text": "How’d it go?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 131,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "0PHd2klbi9",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "I didn’t talk to him.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 132,
+        "createdAt": "2016-04-20T04:34:51.502Z",
+        "updatedAt": "2017-06-30T15:20:03.556Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "9UEQa4Tnvx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 133,
+        "createdAt": "2016-04-20T04:34:51.865Z",
+        "updatedAt": "2017-06-30T15:20:03.557Z",
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Oh?",
+        "risk": 1,
+        "objectId": "N4N464nWdB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Yeah, kind of just stood there staring at him for a while, then figured I’d rather talk to you.",
+        "createdAt": "2016-04-20T04:34:52.227Z",
+        "updatedAt": "2016-04-20T04:34:52.227Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 134,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "npmSAdc1DA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:52.591Z",
+        "updatedAt": "2016-04-20T04:34:52.591Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 135,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Well, I’ll be here for as long as you need me.",
+        "objectId": "LZeQoEJQVQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 136,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "Headed to your place now.",
+        "createdAt": "2016-04-20T04:34:52.966Z",
+        "updatedAt": "2016-04-20T04:34:52.966Z",
+        "objectId": "4AhLobQP2w",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:53.339Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 137,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "You know, you’re surprisingly calm for a guy who was texted a picture of a positive pregnancy test an hour ago.",
+        "createdAt": "2016-04-20T04:34:53.339Z",
+        "objectId": "d0wit6Uxzy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:53.721Z",
+        "updatedAt": "2016-04-20T04:34:53.721Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 138,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "The insanity is coming in waves.",
+        "objectId": "jBbumIbUJj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2016-04-20T04:34:54.086Z",
+        "updatedAt": "2016-04-20T04:34:54.086Z",
+        "ordinalInStory": 139,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text":
+          "You’ll see me on YouTube running around downtown naked with a pacifier up my butt in a few hours.",
+        "isTypingIntroDuration": 0,
+        "objectId": "2mKBNJ6TLm",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 140,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "That’s...strange.",
+        "createdAt": "2016-04-20T04:34:54.487Z",
+        "updatedAt": "2016-04-20T04:34:54.487Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "g4T2o7HRki",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:54.845Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "It’s all for you, babe.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 141,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2016-04-20T04:34:54.845Z",
+        "objectId": "gSmXyPT59T",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2016-04-20T04:34:55.219Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 142,
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "We’ll figure it out. It’s our little kumquat.",
+        "createdAt": "2016-04-20T04:34:55.219Z",
+        "objectId": "c2TMvEMQ4S",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 143,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "imageFile": {
+          "__type": "File",
+          "name": "mfp_fca769a489044ab469570c517cdc7ba8kumquat.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_fca769a489044ab469570c517cdc7ba8kumquat.jpg"
+        },
+        "createdAt": "2016-04-20T04:34:56.850Z",
+        "updatedAt": "2016-04-20T05:01:04.445Z",
+        "mediaWidth": 1228,
+        "mediaHeight": 898,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2016-04-20T05:01:04.431Z"
+        },
+        "objectId": "mLkv72I198",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 144,
+        "createdAt": "2016-04-20T04:34:57.215Z",
+        "updatedAt": "2016-04-20T04:34:57.215Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "text": "What the hell is that?",
+        "objectId": "xLYP0tRBpG",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "A kumquat.",
+        "createdAt": "2016-04-20T04:34:57.586Z",
+        "updatedAt": "2016-04-20T04:34:57.586Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 145,
+        "sender": {
+          "createdAt": "2016-04-20T04:33:06.739Z",
+          "updatedAt": "2017-08-18T15:38:32.098Z",
+          "name": "Dom",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.059Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "TXPADcNSVo",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "3WgMcaKtj3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Aw.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 146,
+        "createdAt": "2016-04-20T04:34:57.955Z",
+        "updatedAt": "2016-04-20T04:34:57.955Z",
+        "sender": {
+          "name": "Emily",
+          "createdAt": "2016-04-20T04:33:06.370Z",
+          "updatedAt": "2017-08-18T15:38:32.090Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:38:32.071Z"
+          },
+          "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+          "objectId": "j7hulWxhDn",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "WaXrEL9bC7"
+        },
+        "objectId": "9M73oPfqcg",
+        "__type": "Object",
+        "className": "Message"
+      }
+    ]
+  }
+}

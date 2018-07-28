@@ -1,0 +1,263 @@
+{
+  "result": {
+    "stories": [
+      {
+        "storyDescription": "Dax: So there’s a problem.",
+        "title": "The Sacrifice",
+        "uid": "thesacrifice",
+        "characters": [],
+        "createdAt": "2015-09-22T21:08:19.629Z",
+        "updatedAt": "2018-07-04T05:10:07.629Z",
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "6fEU2u0qXj"
+          }
+        ],
+        "coverImageFile": {
+          "__type": "File",
+          "name": "mfp_11a4c62662712f672ddba196db2f856f527.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_11a4c62662712f672ddba196db2f856f527.jpg"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "7a98398d0e47d0a695771f47a81f62a4_file.bin",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/7a98398d0e47d0a695771f47a81f62a4_file.bin"
+        },
+        "loveCount": 2444,
+        "commentCount": 788,
+        "trackMessage": false,
+        "hidden": false,
+        "editorsChoice": false,
+        "coverImageLoRes": {
+          "__type": "File",
+          "name": "mfp_31ec5badb43ee91a072a5e9c94949023527-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_31ec5badb43ee91a072a5e9c94949023527-thumbnail-lores.jpg"
+        },
+        "author": {
+          "updatedAt": "2018-06-30T16:40:53.467Z",
+          "username": "EJLeonard",
+          "_perishable_token": "7e2RyVxRHr5JVPzrHg2vFcDUR",
+          "authData": {
+            "facebook": {
+              "access_token":
+                "CAAX8aKjDaqcBAAumnqsBAMmOARdqfq90ZAHgPyZB1HaBmSC9M2eBg5tRQDAZA5H23SF71wHt5vZCuwUMmp4Og2LYpCYWeytC1cOcc1uUJZB06Er3Gl2BWdlkF0HQ12LIBKmDmhVtaw7MLSqswqOBdTTKgNtsPtkZBkxmhbIpIN1osqCsqMizLgDuwAp63bsM5frr78wZAQwwlsC8xEVM81Rb94vA7s7uEXl02NfzHoPdgZDZD",
+              "expiration_date": "2016-03-29T11:22:43.285Z",
+              "id": "156502888059912"
+            }
+          },
+          "createdAt": "2016-01-29T11:22:44.629Z",
+          "autoFolloweesFollowers": [],
+          "waitlist": false,
+          "email": "idealisttarot@gmail.com",
+          "facebookId": "156502888059912",
+          "firstName": "EJ",
+          "fullName": "EJ Leonard",
+          "lastName": "Leonard",
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "mfp_4310631c93aa9534fec05a0dc6596aa9file",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_4310631c93aa9534fec05a0dc6596aa9file"
+          },
+          "readCount": 17,
+          "followerCount": 1915,
+          "followingCount": 8,
+          "loveCount": 0,
+          "bookmarkCount": 0,
+          "writeCount": 75,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-16T01:48:00.269Z"
+          },
+          "bio": "",
+          "canonicalUsername": "ejleonard",
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-25T11:47:09.619Z"
+          },
+          "genreHistogram": {
+            "Mystery": 65,
+            "Romance": 18,
+            "Horror": 6,
+            "Thriller": 12
+          },
+          "genreHistogramUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-07-09T08:10:06.777Z"
+          },
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2018-03-28T22:11:12.131Z"
+          },
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-30T16:40:53.455Z"
+          },
+          "needWelcomeEmail": false,
+          "objectId": "uC1MJ1iZiB",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "genre": "Horror",
+        "episodeSeriesName": "",
+        "tags": ["Dark", "Creepy", "Monster", "Gory"],
+        "episodeCount": 1,
+        "episodeIndex": 1,
+        "inappropriateContent": false,
+        "pendingDeletion": false,
+        "inappropriateContentFlaggers": [],
+        "seriesTitle": "The Sacrifice",
+        "editedAt": { "__type": "Date", "iso": "2017-08-19T10:03:50.857Z" },
+        "wordCount": 730,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T09:03:35.343Z"
+        },
+        "readCount": 89357,
+        "searchTerms": [
+          "c",
+          "cr",
+          "cre",
+          "cree",
+          "creep",
+          "creepy",
+          "d",
+          "da",
+          "dar",
+          "dark",
+          "e",
+          "ej",
+          "ejl",
+          "ejle",
+          "ejleo",
+          "ejleon",
+          "ejleona",
+          "ejleonar",
+          "ejleonard",
+          "g",
+          "go",
+          "gor",
+          "gory",
+          "l",
+          "le",
+          "leo",
+          "leon",
+          "leona",
+          "leonar",
+          "leonard",
+          "m",
+          "mo",
+          "mon",
+          "mons",
+          "monst",
+          "monste",
+          "monster",
+          "s",
+          "sa",
+          "sac",
+          "sacr",
+          "sacri",
+          "sacrif",
+          "sacrifi",
+          "sacrific",
+          "sacrifice",
+          "t",
+          "th",
+          "the"
+        ],
+        "seriesTitleAutoGenerated": true,
+        "createdOutsideApp": true,
+        "readVelocity": 20,
+        "risk": 6,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "EqvA18ARbm"
+        },
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:19:57.416Z"
+        },
+        "previousReadVelocity": 20,
+        "readAcceleration": 0,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:01:00.032Z"
+        },
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T04:55:00.919Z"
+        },
+        "loveRatio": 0.027350962991147868,
+        "sentimentAverage": 2.3815461346633446,
+        "sentimentCount": 401,
+        "commentRatio": 0.008820533485565892,
+        "authorsObjectIds": ["uC1MJ1iZiB"],
+        "recommendable": true,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T15:22:12.769Z"
+        },
+        "seriesIdentifier": "fdf67a25-dfc4-dfd2-d5cb-9ccda8e7e865",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/61YXozIeUR/video_5902db7cafcab.mov",
+        "completionRate": 52.966987660865215,
+        "soundFile": null,
+        "backgroundImageFile": null,
+        "alreadyPublished": false,
+        "prompt": "",
+        "coauthors": null,
+        "style": null,
+        "alwaysFree": false,
+        "episodeTitle": null,
+        "appropriateContent": false,
+        "completed_ios": 15633,
+        "started_ios": 27789,
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:10:02.224Z"
+        },
+        "completionRate_ios": 56.256072546691136,
+        "completionRate_android": 38.148508430609596,
+        "seriesCompletionRate_ios": 56.256072546691136,
+        "seriesCompletionRate_android": 38.148508430609596,
+        "seriesCompletionRate": 52.966987660865215,
+        "seriesAverageCompletionRate_ios": 56.256072546691136,
+        "seriesAverageCompletionRate_android": 38.148508430609596,
+        "seriesAverageCompletionRate": 52.966987660865215,
+        "completed_android": 2353,
+        "started_android": 6168,
+        "metascore": 57.23507149446624,
+        "searchable": true,
+        "readable": true,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:30:07.731Z"
+        },
+        "audioSynchronizationData": null,
+        "audioSoundFileUrl": null,
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:25:02.521Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 1,
+        "rd_started_ios": 642,
+        "rd_started_android": 2108,
+        "rd_completed_ios": 444,
+        "rd_completed_android": 184,
+        "rd_completionRate_ios": 69.1588785046729,
+        "rd_completionRate_android": 8.72865275142315,
+        "ACL": { "*": { "read": true }, "uC1MJ1iZiB": { "write": true } },
+        "objectId": "61YXozIeUR",
+        "__type": "Object",
+        "className": "Story"
+      }
+    ]
+  }
+}

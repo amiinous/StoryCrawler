@@ -1,0 +1,3564 @@
+{
+  "result": {
+    "cached": true,
+    "messages": [
+      {
+        "updatedAt": "2015-09-12T06:19:12.603Z",
+        "text": "If I left here 2nite, would U come w/ me?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 1,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:12.603Z",
+        "objectId": "rWuyHmnp1H",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:12.995Z",
+        "updatedAt": "2015-09-12T06:19:12.995Z",
+        "text": "What?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 2,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "OaSRBecl06",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "If I left this town 2nite, would U take my hand and follow?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 3,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:13.364Z",
+        "updatedAt": "2015-09-12T06:19:13.364Z",
+        "objectId": "n0cl7ckJ2P",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:13.732Z",
+        "updatedAt": "2015-09-12T06:19:13.732Z",
+        "ordinalInStory": 4,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "☺",
+        "isTypingIntroDuration": 0,
+        "objectId": "JMOIgBaOC8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Is that a YES?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 5,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:14.398Z",
+        "updatedAt": "2015-09-12T06:19:14.398Z",
+        "objectId": "s7pDoFtSRT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "No, it means you made me smile.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 6,
+        "createdAt": "2015-09-12T06:19:14.755Z",
+        "updatedAt": "2015-09-12T06:19:14.755Z",
+        "objectId": "sUCaATxdA6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So it’s a no?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:15.112Z",
+        "updatedAt": "2017-06-30T15:41:43.370Z",
+        "ordinalInStory": 7,
+        "risk": 1,
+        "objectId": "6am1GjxixS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:15.504Z",
+        "updatedAt": "2015-09-12T06:19:15.504Z",
+        "text": "Didn’t say that either.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 8,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "ikRiqHjBQW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Funny girl. So which is it?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:15.896Z",
+        "updatedAt": "2017-06-30T17:12:30.614Z",
+        "ordinalInStory": 9,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 2,
+        "objectId": "BBE3p9cZKl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Depends. R U being serious?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:16.265Z",
+        "updatedAt": "2017-06-30T17:09:58.015Z",
+        "ordinalInStory": 10,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 2,
+        "objectId": "AiOU49ITUv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:16.642Z",
+        "updatedAt": "2015-09-12T06:19:16.642Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Depends on ur answer. :P",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 11,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "M7SvNaZVQ3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:17.029Z",
+        "updatedAt": "2015-09-12T06:19:17.029Z",
+        "ordinalInStory": 12,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Hmm.. Where would we go?",
+        "isTypingIntroDuration": 0,
+        "objectId": "ancFgE4On2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:17.421Z",
+        "updatedAt": "2015-09-12T06:19:17.421Z",
+        "ordinalInStory": 13,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Anywhere you like.",
+        "objectId": "unAFT9ADmU",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "How would we get by?",
+        "createdAt": "2015-09-12T06:19:17.807Z",
+        "updatedAt": "2015-09-12T06:19:17.807Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 14,
+        "objectId": "Qg69NtejvT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:18.186Z",
+        "updatedAt": "2015-09-12T06:19:18.186Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Same as we do now.. Together, hand in hand.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 15,
+        "objectId": "dcAYzQcniR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 16,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:18.551Z",
+        "updatedAt": "2015-09-12T06:19:18.551Z",
+        "text": "And how would we eat? No one gives jobs to fifteen year olds.",
+        "isTypingIntroDuration": 0,
+        "objectId": "xiKoqbu7Kr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Hmm.. We could beg, borrow and steal.",
+        "createdAt": "2015-09-12T06:19:18.951Z",
+        "updatedAt": "2015-09-12T06:19:18.951Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 17,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "wuUPVnQaPl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:19.365Z",
+        "updatedAt": "2015-09-12T06:19:19.365Z",
+        "text": "Sounds dangerous. Could we just borrow?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 18,
+        "objectId": "L2D6uo14SW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:19.796Z",
+        "updatedAt": "2017-06-30T15:20:52.022Z",
+        "ordinalInStory": 19,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Borrow without permission.",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "0Xh1fGNJWg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 20,
+        "createdAt": "2015-09-12T06:19:20.733Z",
+        "updatedAt": "2015-09-12T06:19:20.733Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "You mean STEAL.",
+        "objectId": "NrNSSiggZw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Semantics.",
+        "createdAt": "2015-09-12T06:19:21.116Z",
+        "updatedAt": "2017-06-30T17:33:26.474Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 21,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 1,
+        "objectId": "EqVJLUPQwL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:21.492Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 22,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So we’ll come back 2 that 1. Gotcha. :P",
+        "createdAt": "2015-09-12T06:19:21.492Z",
+        "objectId": "SE8MYsSw7e",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 23,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:21.890Z",
+        "updatedAt": "2015-09-12T06:19:21.890Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "What else would U like to know?",
+        "isTypingIntroDuration": 0,
+        "objectId": "lnr5f0njaF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "What about our parents?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:22.279Z",
+        "updatedAt": "2015-09-12T06:19:22.279Z",
+        "ordinalInStory": 24,
+        "objectId": "R1MXnLU0Cn",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "They can’t come.",
+        "createdAt": "2015-09-12T06:19:22.670Z",
+        "updatedAt": "2015-09-12T06:19:22.670Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 25,
+        "objectId": "OEpridrD4C",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:23.034Z",
+        "text": "LOL.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 26,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:23.034Z",
+        "objectId": "H1wX1kr8WQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:23.428Z",
+        "updatedAt": "2015-09-12T06:19:23.428Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 27,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "But we could send them postcards. ☺ Greetings from…",
+        "objectId": "XNoStyORwf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 28,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:23.830Z",
+        "updatedAt": "2015-09-12T06:19:23.830Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Pluto?",
+        "objectId": "xgbYwbOjIZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "If you wish. What else?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 29,
+        "createdAt": "2015-09-12T06:19:24.217Z",
+        "updatedAt": "2017-06-30T15:55:12.028Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 2,
+        "objectId": "9J7VIlsYiT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:24.600Z",
+        "ordinalInStory": 30,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Well, there is the school thing.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:24.600Z",
+        "objectId": "akcxowU18U",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text":
+          "NO 1 sees us when we’re there. Who would miss us if we’re gone?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 31,
+        "createdAt": "2015-09-12T06:19:24.989Z",
+        "updatedAt": "2015-09-12T06:19:24.989Z",
+        "objectId": "gG1gtgUrJE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:25.386Z",
+        "updatedAt": "2015-09-12T06:19:25.386Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "I would miss U if U were gone!!!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 32,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "fqrMLQxkif",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:25.766Z",
+        "updatedAt": "2015-09-12T06:19:25.766Z",
+        "text": "Hence the question.. If I left here tonight…",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 33,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "L1RXoruV9p",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 34,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:26.151Z",
+        "updatedAt": "2015-09-12T06:19:26.151Z",
+        "text": "Would I take your hand and follow?",
+        "objectId": "rND9gdufHY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Why not?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:26.517Z",
+        "updatedAt": "2017-06-30T15:46:43.886Z",
+        "ordinalInStory": 35,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 1,
+        "objectId": "7iu24EkzXa",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 36,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:26.910Z",
+        "updatedAt": "2015-09-12T06:19:26.910Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text":
+          "That’s a very good question. It might take time 2 answer. Days even.",
+        "objectId": "vaCvTk2Va2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So.. You wouldn’t come with me? ☹",
+        "createdAt": "2015-09-12T06:19:27.272Z",
+        "updatedAt": "2015-09-12T06:19:27.272Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 37,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "KVMPjXD1CL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 38,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Ha! Didn’t say that. U R putting words into my fingers. :P",
+        "createdAt": "2015-09-12T06:19:27.645Z",
+        "updatedAt": "2015-09-12T06:19:27.645Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "dGwbvPRNDG",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:28.009Z",
+        "updatedAt": "2015-09-12T06:19:28.009Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 39,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "But you didn’t say yes, either.",
+        "objectId": "r36ZBEzKi3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 40,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:28.383Z",
+        "updatedAt": "2015-09-12T06:19:28.383Z",
+        "text":
+          "I suppose it’s worth considering. After all, what future could this sleepy little town hold for the likes of us?",
+        "objectId": "Q9RQ2au3cb",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:28.786Z",
+        "updatedAt": "2017-06-30T17:35:19.193Z",
+        "text": "A trick question?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 41,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "F7cz6q4127",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Depends on ur answer.",
+        "createdAt": "2015-09-12T06:19:29.171Z",
+        "updatedAt": "2015-09-12T06:19:29.171Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 42,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "zhYczzxoVy",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Smart ass. :P",
+        "createdAt": "2015-09-12T06:19:29.545Z",
+        "updatedAt": "2015-09-12T06:19:29.545Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 43,
+        "objectId": "ouoi9WzG05",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 44,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "U’d prefer the alternative? :D",
+        "createdAt": "2015-09-12T06:19:29.997Z",
+        "updatedAt": "2015-09-12T06:19:29.997Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "mOJJ0FRc3K",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 45,
+        "createdAt": "2015-09-12T06:19:30.363Z",
+        "updatedAt": "2015-09-12T06:19:30.363Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Like U just the way U R.",
+        "objectId": "mwGVGoPLsh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Broken?",
+        "createdAt": "2015-09-12T06:19:30.751Z",
+        "updatedAt": "2015-09-12T06:19:30.751Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 46,
+        "objectId": "daiNewqVWM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:31.153Z",
+        "updatedAt": "2015-09-12T06:19:31.153Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 47,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Not 2 me.",
+        "objectId": "hsEiLyexcp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 48,
+        "createdAt": "2015-09-12T06:19:31.540Z",
+        "updatedAt": "2015-09-12T06:19:31.540Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "U R sweet.. But we digress..",
+        "isTypingIntroDuration": 0,
+        "objectId": "gWLQZopBPK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T17:26:51.363Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text":
+          "Yes.. well.. Everyone says the best thing about this town is that it’s quiet.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 49,
+        "createdAt": "2015-09-12T06:19:31.952Z",
+        "risk": 2,
+        "objectId": "DmqAvNamzr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:32.351Z",
+        "updatedAt": "2015-09-12T06:19:32.351Z",
+        "text": "Ah.. but what is quiet? It’s merely the absence of sound.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 50,
+        "objectId": "ymnlNTHukS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:32.739Z",
+        "updatedAt": "2015-09-12T06:19:32.739Z",
+        "text": "Meaning?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 51,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "IP57loTvMk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:33.133Z",
+        "updatedAt": "2015-09-12T06:19:33.133Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 52,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Absence is nothing.",
+        "objectId": "wXIPoWWhhE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 53,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text":
+          "So if there is nothing but NOTHING here.. It must mean EVERYTHING is out THERE.",
+        "createdAt": "2015-09-12T06:19:33.492Z",
+        "updatedAt": "2015-09-12T06:19:33.492Z",
+        "objectId": "lSgBDs8WkM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:33.872Z",
+        "updatedAt": "2015-09-12T06:19:33.872Z",
+        "text": "I suppose.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 54,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "kgCm0I53C5",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:34.251Z",
+        "updatedAt": "2015-09-12T06:19:34.251Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So U make my argument 4 me.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 55,
+        "objectId": "ZBAqztF97f",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "But U 4get.. Im here.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 56,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:34.671Z",
+        "updatedAt": "2015-09-12T06:19:34.671Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "yuDqixUfLV",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Hm.. valid point.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 57,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:35.040Z",
+        "updatedAt": "2015-09-12T06:19:35.040Z",
+        "objectId": "igRQeRqH1d",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 58,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So, to recap.. there is NOTHING here except…?",
+        "createdAt": "2015-09-12T06:19:35.410Z",
+        "updatedAt": "2015-09-12T06:19:35.410Z",
+        "objectId": "MK1wQByEQS",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 59,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:35.821Z",
+        "updatedAt": "2015-09-12T06:19:35.821Z",
+        "text": "Everything I want.",
+        "isTypingIntroDuration": 0,
+        "objectId": "nsOamX90V7",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 60,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So everything you want is already here?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:36.192Z",
+        "updatedAt": "2015-09-12T06:19:36.192Z",
+        "objectId": "ITEnUS1NLV",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "It appears so.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 61,
+        "createdAt": "2015-09-12T06:19:36.603Z",
+        "updatedAt": "2015-09-12T06:19:36.603Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "KKwFRcnBIk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:29:45.181Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 62,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So now ur arguing to stay?",
+        "createdAt": "2015-09-12T06:19:36.995Z",
+        "risk": 2,
+        "objectId": "3JZV9G0b6w",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Ah, but.. methinks you’ve forgotten my original question.",
+        "createdAt": "2015-09-12T06:19:37.364Z",
+        "updatedAt": "2015-09-12T06:19:37.364Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 63,
+        "objectId": "XTjyfzrTVp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:37.753Z",
+        "updatedAt": "2015-09-12T06:19:37.753Z",
+        "text": "Methinks?? Really? Now ur what.. Romeo?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 64,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "vGHUjqLtSg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:38.126Z",
+        "updatedAt": "2015-09-12T06:19:38.126Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Something like that.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 65,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "m31oUqA6Qu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:38.524Z",
+        "updatedAt": "2015-09-12T06:19:38.524Z",
+        "ordinalInStory": 66,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Prove it.",
+        "isTypingIntroDuration": 0,
+        "objectId": "eRsF8lRylQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:38.937Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Fine.. look out ur window.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 67,
+        "createdAt": "2015-09-12T06:19:38.937Z",
+        "objectId": "nvikZI8gFZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:39.342Z",
+        "updatedAt": "2015-09-12T06:19:39.342Z",
+        "text": "O.M.F.G.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 68,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "U6qVU1wxbM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Why R U on my lawn in the middle of the night?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 69,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:39.726Z",
+        "updatedAt": "2015-09-12T06:19:39.726Z",
+        "objectId": "KCadOM23kj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:40.125Z",
+        "text": "Im waiting 4 U to take my hand?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 70,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:40.125Z",
+        "objectId": "ys84tQR1uC",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "U R CRAZY!!! ☺",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 71,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:40.510Z",
+        "updatedAt": "2015-09-12T06:19:40.510Z",
+        "objectId": "x5q5uQp5Wx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:40.894Z",
+        "updatedAt": "2015-09-12T06:19:40.894Z",
+        "ordinalInStory": 72,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "4 U.",
+        "isTypingIntroDuration": 0,
+        "objectId": "NztXZiBZxT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:41.298Z",
+        "updatedAt": "2015-09-12T06:19:41.298Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "I believe U.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 73,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "NL4OpdNXso",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "So come out on ur balcony.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 74,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:41.699Z",
+        "updatedAt": "2015-09-12T06:19:41.699Z",
+        "objectId": "oapw0FkyKF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:42.111Z",
+        "updatedAt": "2017-06-30T15:40:25.289Z",
+        "text": "It’s a flower box.. U nutter.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 75,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "6FDFGq9HSA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "At least open ur window?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 76,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:42.499Z",
+        "updatedAt": "2015-09-12T06:19:42.499Z",
+        "objectId": "aoDAXdQCiz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "NO! The rents R still up.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:42.883Z",
+        "updatedAt": "2017-06-30T17:10:54.858Z",
+        "ordinalInStory": 77,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 2,
+        "objectId": "AtKUSKjaWu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 78,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So?",
+        "createdAt": "2015-09-12T06:19:43.270Z",
+        "updatedAt": "2015-09-12T06:19:43.270Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "oGqkOGnFbY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So my dad will strangle U if he finds U.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 79,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:43.673Z",
+        "updatedAt": "2015-09-12T06:19:43.673Z",
+        "objectId": "qzBBPqu9V8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Ur dad likes me.",
+        "createdAt": "2015-09-12T06:19:44.062Z",
+        "updatedAt": "2015-09-12T06:19:44.062Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 80,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "h7PTDsSyFI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:44.446Z",
+        "updatedAt": "2015-09-12T06:19:44.446Z",
+        "text": "He does. So go away B4 he doesn’t.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 81,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "hSWlBOAgKH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "I’ll go when U stop smiling. ☺",
+        "createdAt": "2015-09-12T06:19:44.844Z",
+        "updatedAt": "2015-09-12T06:19:44.844Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 82,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "gf6kVZBMLb",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:45.216Z",
+        "ordinalInStory": 83,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Catch-22.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:45.216Z",
+        "objectId": "toZ9CNgJ4Y",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Huh?",
+        "createdAt": "2015-09-12T06:19:46.254Z",
+        "updatedAt": "2015-09-12T06:19:46.254Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 84,
+        "objectId": "NeL5etv5Wg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:46.639Z",
+        "updatedAt": "2017-06-30T15:24:27.037Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "How can I not smile when U R around?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 85,
+        "risk": 1,
+        "objectId": "1iT3yL2z8L",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 86,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:47.016Z",
+        "updatedAt": "2017-06-30T15:35:48.330Z",
+        "text": "Catch-22.",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "533X0qymyN",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:47.387Z",
+        "updatedAt": "2015-09-12T06:19:47.387Z",
+        "ordinalInStory": 87,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "?",
+        "objectId": "seElOK1g9A",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "How can I go when I see U smiling?",
+        "createdAt": "2015-09-12T06:19:47.822Z",
+        "updatedAt": "2017-06-30T17:14:34.285Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 88,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "BYENYfYldv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:48.195Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So Im stuck with U?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 89,
+        "createdAt": "2015-09-12T06:19:48.195Z",
+        "objectId": "RfxZVtxI7G",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Looks like it.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 90,
+        "createdAt": "2015-09-12T06:19:48.601Z",
+        "updatedAt": "2017-06-30T15:39:00.480Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "risk": 2,
+        "objectId": "5qOnDgGNkT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:48.990Z",
+        "updatedAt": "2017-06-30T17:13:45.063Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 91,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Good. Have something to show U then. Hang on.",
+        "risk": 1,
+        "objectId": "BObxsVNvIj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Not going anywhere without U.",
+        "createdAt": "2015-09-12T06:19:49.381Z",
+        "updatedAt": "2017-06-30T15:21:49.978Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 92,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "0tEkuaYRao",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:49.778Z",
+        "updatedAt": "2017-06-30T15:32:55.578Z",
+        "ordinalInStory": 93,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "There. What do U think of the new hat? Like it?",
+        "risk": 2,
+        "objectId": "4Ga3HWNlKr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 94,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Of course.",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:50.261Z",
+        "updatedAt": "2015-09-12T06:19:50.261Z",
+        "objectId": "J6PtlD5QN3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:50.650Z",
+        "updatedAt": "2017-06-30T17:19:30.509Z",
+        "ordinalInStory": 95,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Why “of course?”",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "CQ9m8W462K",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 96,
+        "createdAt": "2015-09-12T06:19:51.119Z",
+        "updatedAt": "2015-09-12T06:19:51.119Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Love all ur hats.",
+        "objectId": "zFpGheDIYa",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Why?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:51.514Z",
+        "updatedAt": "2015-09-12T06:19:51.514Z",
+        "ordinalInStory": 97,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "LoRZFcZYjn",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:51.885Z",
+        "updatedAt": "2017-06-30T17:17:20.022Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "B/c they’re part of U.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 98,
+        "risk": 2,
+        "objectId": "C0i8FaGPF8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "So R U.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 99,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:19:52.253Z",
+        "updatedAt": "2015-09-12T06:19:52.253Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "mbs9S7zUew",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:52.655Z",
+        "updatedAt": "2015-09-12T06:19:52.655Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Ugh. :P",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 100,
+        "objectId": "xeB1yi2NNY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "2 sappy?",
+        "createdAt": "2015-09-12T06:19:53.044Z",
+        "updatedAt": "2017-06-30T17:47:24.159Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 101,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "GPHv521wDX",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:53.438Z",
+        "updatedAt": "2015-09-12T06:19:53.438Z",
+        "text": "Maybe a little. But I still luv U.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 102,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "GkVmhyBFaW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-09-12T06:19:53.824Z",
+        "text": "Why do u luv me? ☺",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 103,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:53.824Z",
+        "objectId": "jwbuXEJQ00",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "B/c Im part of U.",
+        "createdAt": "2015-09-12T06:19:54.205Z",
+        "updatedAt": "2015-09-12T06:19:54.205Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 104,
+        "objectId": "P4lxufOCvf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:54.574Z",
+        "updatedAt": "2015-09-12T06:19:54.574Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Disgustingly sappy.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 105,
+        "objectId": "KlUkKOz482",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 106,
+        "createdAt": "2015-09-12T06:19:54.958Z",
+        "updatedAt": "2015-09-12T06:19:54.958Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Sorry. I luv U b/c U bring a little beauty into the world.",
+        "isTypingIntroDuration": 0,
+        "objectId": "sB00zUXDoj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Better.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 107,
+        "createdAt": "2015-09-12T06:19:55.335Z",
+        "updatedAt": "2015-09-12T06:19:55.335Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "LJ3SgA8Aqp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 108,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Good.. let’s end on that note. Will U be in school tomorrow?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-09-12T06:19:55.697Z",
+        "updatedAt": "2015-09-12T06:19:55.697Z",
+        "objectId": "RfULNQZVuR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:56.079Z",
+        "updatedAt": "2015-09-12T06:19:56.079Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Yup. After chemo. ☹",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 109,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "yEcjDZ375o",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Last one?",
+        "createdAt": "2015-09-12T06:19:56.453Z",
+        "updatedAt": "2015-09-12T06:19:56.453Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 110,
+        "objectId": "q3keElNwV4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:56.862Z",
+        "updatedAt": "2015-09-12T06:19:56.862Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 111,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Fingers crossed this one kicks it.",
+        "objectId": "Jb6fH9EKdK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:57.234Z",
+        "updatedAt": "2015-09-12T06:19:57.234Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 112,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Fingers crossed.",
+        "objectId": "oaguRzMR88",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 113,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:57.613Z",
+        "updatedAt": "2015-09-12T06:19:57.613Z",
+        "text": "Now will U go B4 someone sees U?",
+        "objectId": "L3294Fv3SA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:57.991Z",
+        "updatedAt": "2015-09-12T06:19:57.991Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 114,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "U haven’t answered my question.",
+        "objectId": "HDCx3ShFry",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "What question is that?",
+        "createdAt": "2015-09-12T06:19:58.363Z",
+        "updatedAt": "2017-06-30T15:55:21.956Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 115,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "9KqdTJt2C0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 116,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "createdAt": "2015-09-12T06:19:58.738Z",
+        "updatedAt": "2017-06-30T15:34:27.795Z",
+        "text": "If I left here tonight…",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "4liHbKAqNM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:59.113Z",
+        "updatedAt": "2015-09-12T06:19:59.113Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 117,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "I WOULD take ur hand and follow. ☺☺",
+        "objectId": "dKR3uwvpJa",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 118,
+        "createdAt": "2015-09-12T06:19:59.486Z",
+        "updatedAt": "2015-09-12T06:19:59.486Z",
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Swear?",
+        "isTypingIntroDuration": 0,
+        "objectId": "IhbGvCgEyv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:19:59.863Z",
+        "updatedAt": "2015-09-12T06:19:59.863Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 119,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Even if it killed me.",
+        "objectId": "ZEHeb5iLwH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": -1,
+        "ordinalInStory": 120,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Well we can’t have that, so…",
+        "createdAt": "2015-09-12T06:20:00.252Z",
+        "updatedAt": "2015-09-12T06:20:00.252Z",
+        "objectId": "Huo5oh7QkU",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 121,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "So we say goodnight?",
+        "createdAt": "2015-09-12T06:20:00.642Z",
+        "updatedAt": "2015-09-12T06:20:00.642Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "W5AEewW0v5",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:20:01.020Z",
+        "updatedAt": "2015-09-12T06:20:01.020Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "We say goodnight.",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 122,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "STKxifsLUh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "And Mica?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 123,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-09-12T06:20:01.390Z",
+        "updatedAt": "2015-09-12T06:20:01.390Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "I1XH7Kna3w",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:20:01.841Z",
+        "updatedAt": "2015-09-12T06:20:01.841Z",
+        "ordinalInStory": 124,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Yes?",
+        "isTypingIntroDuration": 0,
+        "objectId": "tMMC2Z6iXG",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 125,
+        "sender": {
+          "updatedAt": "2017-08-18T15:23:36.115Z",
+          "name": "ADA544",
+          "createdAt": "2015-09-12T06:19:09.309Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:23:36.093Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "C47bW1smeg",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "text": "Ask me again tomorrow?",
+        "createdAt": "2015-09-12T06:20:02.433Z",
+        "updatedAt": "2015-09-12T06:20:02.433Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "ZGuSfxZ4Wp",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-09-12T06:20:02.880Z",
+        "updatedAt": "2015-09-12T06:20:02.880Z",
+        "text": "Don’t I always?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 126,
+        "sender": {
+          "updatedAt": "2017-08-18T15:24:56.887Z",
+          "name": "MICA",
+          "createdAt": "2015-09-12T06:19:08.942Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:56.868Z"
+          },
+          "ACL": { "*": { "read": true }, "V6dOitbCyD": { "write": true } },
+          "objectId": "Y6PHwfFbG7",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "LwvoyYBneF"
+        },
+        "objectId": "TLoqogxTuH",
+        "__type": "Object",
+        "className": "Message"
+      }
+    ]
+  }
+}

@@ -1,0 +1,4191 @@
+{
+  "result": {
+    "cached": false,
+    "messages": [
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I noticed it this morning",
+        "createdAt": "2015-10-08T01:52:20.152Z",
+        "updatedAt": "2015-10-08T01:52:20.152Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 1,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "Z3eM9Z1bSj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T17:42:00.346Z",
+        "text": "What?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 2,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:20.509Z",
+        "risk": 1,
+        "objectId": "FsfgRAi115",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T17:19:58.896Z",
+        "text": "Blood …",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 3,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:20.863Z",
+        "risk": 3,
+        "objectId": "CWhop6RXrI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:21.223Z",
+        "updatedAt": "2017-06-30T17:24:29.069Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What? Where?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 4,
+        "risk": 1,
+        "objectId": "DMffoCErUz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "On my pillow",
+        "createdAt": "2015-10-08T01:52:21.582Z",
+        "updatedAt": "2015-10-08T01:52:21.582Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 5,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "Vv5ABUu2E0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 6,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Nose bleed?",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:21.941Z",
+        "updatedAt": "2015-10-08T01:52:21.941Z",
+        "objectId": "ulY2eT0UXc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:22.304Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 7,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "No, nose fine. And SHE was there",
+        "createdAt": "2015-10-08T01:52:22.304Z",
+        "objectId": "ho0cTa72jl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 8,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Who",
+        "createdAt": "2015-10-08T01:52:22.660Z",
+        "updatedAt": "2015-10-08T01:52:22.660Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "Nef4porklR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Akasha",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:23.029Z",
+        "updatedAt": "2015-10-08T01:52:23.029Z",
+        "ordinalInStory": 9,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "gluyMWANCz",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Your cat? BTW what kind of name is that",
+        "createdAt": "2015-10-08T01:52:23.401Z",
+        "updatedAt": "2015-10-08T01:52:23.401Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 10,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "qwNLQKJXll",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Her previous owner said that’s what she was called",
+        "createdAt": "2015-10-08T01:52:23.781Z",
+        "updatedAt": "2015-10-08T01:52:23.781Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 11,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "V56RfgVFAr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:24.139Z",
+        "updatedAt": "2015-10-08T01:52:24.139Z",
+        "text": "Strange",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 12,
+        "objectId": "MVXvMXO8qB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text":
+          "Yeah. Listen I think she’s evil … She just stared at me, motionless",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:24.584Z",
+        "updatedAt": "2015-10-08T01:52:24.584Z",
+        "ordinalInStory": 13,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "nmyOAjqI3L",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:24.946Z",
+        "updatedAt": "2015-10-08T01:52:24.946Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "All cats look like evil masterminds, nothing new there",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 14,
+        "objectId": "qdJLOzfsvh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 15,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I think she was the one who hurt me",
+        "createdAt": "2015-10-08T01:52:25.321Z",
+        "updatedAt": "2017-06-30T15:35:07.607Z",
+        "risk": 3,
+        "objectId": "4yPpAEYEI8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I think I saw her jump off the bed just as I woke up",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 16,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:25.690Z",
+        "updatedAt": "2015-10-08T01:52:25.690Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "aTYEnEMaYL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Maybe she wanted you to feed her",
+        "createdAt": "2015-10-08T01:52:26.043Z",
+        "updatedAt": "2017-06-30T15:21:18.429Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 17,
+        "risk": 1,
+        "objectId": "0igtcqLg0T",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "No, there’s something creepy going on here …",
+        "createdAt": "2015-10-08T01:52:26.413Z",
+        "updatedAt": "2015-10-08T01:52:26.413Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 18,
+        "objectId": "kwv6eV0TY0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 19,
+        "createdAt": "2015-10-08T01:52:26.766Z",
+        "updatedAt": "2015-10-08T01:52:26.766Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I’ve been feeling really faint and dizzy",
+        "isTypingIntroDuration": 0,
+        "objectId": "MCNljRwjpr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 20,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "You’re just learning how to be a cat person",
+        "createdAt": "2015-10-08T01:52:27.111Z",
+        "updatedAt": "2017-06-30T15:59:27.066Z",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "A5Kbd7VKt9",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:27.471Z",
+        "updatedAt": "2015-10-08T01:52:27.471Z",
+        "ordinalInStory": 21,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Do you know what the difference between cats and dogs is?",
+        "isTypingIntroDuration": 0,
+        "objectId": "ilepFmvCIj",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 22,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:27.828Z",
+        "updatedAt": "2015-10-08T01:52:27.828Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I’m serious Eliza!",
+        "isTypingIntroDuration": 0,
+        "objectId": "KuqSwDliSZ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:28.187Z",
+        "text": "No this is really funny",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 23,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:28.187Z",
+        "objectId": "xkbyOwiHGH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:28.546Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 24,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text":
+          "A dog thinks: these people feed me, take care of me and give me gifts",
+        "createdAt": "2015-10-08T01:52:28.546Z",
+        "objectId": "VyRFwYq22F",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:28.914Z",
+        "updatedAt": "2015-10-08T01:52:28.914Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Therefore they must be GODS",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 25,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "OQILVVMoAW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Can you stop with the jokes",
+        "createdAt": "2015-10-08T01:52:29.281Z",
+        "updatedAt": "2015-10-08T01:52:29.281Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 26,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "y6KfeKS4IF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Hold on you’re spoiling it!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:29.639Z",
+        "updatedAt": "2015-10-08T01:52:29.639Z",
+        "ordinalInStory": 27,
+        "objectId": "eycA3xvTEQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:29.997Z",
+        "updatedAt": "2015-10-08T01:52:29.997Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 28,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text":
+          "A cat thinks: these people feed me, take care of me and give me gifts",
+        "objectId": "rr1wc7lXII",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "There for I must be GOD",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:30.355Z",
+        "updatedAt": "2015-10-08T01:52:30.355Z",
+        "ordinalInStory": 29,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "JAPlhB8vJe",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 30,
+        "createdAt": "2015-10-08T01:52:30.711Z",
+        "updatedAt": "2015-10-08T01:52:30.711Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Hahaha",
+        "objectId": "W2Z60gXWQB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 31,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:31.068Z",
+        "updatedAt": "2017-06-30T15:29:46.054Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Ok sort of funny. Maybe she IS a god",
+        "isTypingIntroDuration": 0,
+        "risk": 3,
+        "objectId": "3KFMd3GoxY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 32,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:31.425Z",
+        "updatedAt": "2017-06-30T17:31:55.532Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "All cats are",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "EdMwi9JAfW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 33,
+        "createdAt": "2015-10-08T01:52:31.780Z",
+        "updatedAt": "2017-06-30T15:48:23.160Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "And I’m about to taste her revenge",
+        "risk": 6,
+        "objectId": "7yUrKpTBAK",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:32.145Z",
+        "updatedAt": "2015-10-08T01:52:32.145Z",
+        "ordinalInStory": 34,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Why?",
+        "objectId": "UdhzRuJsQ2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:32.494Z",
+        "updatedAt": "2015-10-08T01:52:32.494Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 35,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text":
+          "She’s held a grudge against me ever since I gave her litter away",
+        "objectId": "HlAdsmW6Kb",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 36,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:32.857Z",
+        "updatedAt": "2015-10-08T01:52:32.857Z",
+        "text": "She just needs time",
+        "objectId": "dEmurpzLs6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:40:10.478Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "There’s more",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 37,
+        "createdAt": "2015-10-08T01:52:33.220Z",
+        "risk": 1,
+        "objectId": "69is1fkOS6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:33.587Z",
+        "updatedAt": "2017-06-30T17:21:58.413Z",
+        "text": "Like what",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 38,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 2,
+        "objectId": "CtJroOw9qW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She walks around at night",
+        "createdAt": "2015-10-08T01:52:33.956Z",
+        "updatedAt": "2015-10-08T01:52:33.956Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 39,
+        "objectId": "dUL1pBH3uu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Like she’s avoiding the sunlight",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 40,
+        "createdAt": "2015-10-08T01:52:34.331Z",
+        "updatedAt": "2015-10-08T01:52:34.331Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "umthyQ2aJq",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 41,
+        "createdAt": "2015-10-08T01:52:34.723Z",
+        "updatedAt": "2015-10-08T01:52:34.723Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "That’s what cats DO Jenna",
+        "isTypingIntroDuration": 0,
+        "objectId": "gNLn4a9Jjv",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 42,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:35.194Z",
+        "updatedAt": "2017-06-30T15:52:53.979Z",
+        "text": "And last night I woke up and my neck hurt",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "8rq5ftc6Di",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:35.551Z",
+        "text": "What has that got to do with anything",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 43,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:35.551Z",
+        "objectId": "UfOTt2Zaa6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I went to get some water from the fridge and there she was",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:35.918Z",
+        "updatedAt": "2015-10-08T01:52:35.918Z",
+        "ordinalInStory": 44,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "RXY91CZ5Ss",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 45,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:36.275Z",
+        "updatedAt": "2017-06-30T15:53:46.905Z",
+        "text": "And her eyes glowed in the dark",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "913CNNFgEM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:36.630Z",
+        "updatedAt": "2015-10-08T01:52:36.630Z",
+        "text": "Again, that’s what is supposed to happen",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 46,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "m4XMC5Vier",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Well yeah, except … they were glowing RED …",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 47,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:36.988Z",
+        "updatedAt": "2017-06-30T17:23:44.158Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 1,
+        "objectId": "DEHRdTQt2M",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:37.346Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "You must have been have asleep still",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 48,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:37.346Z",
+        "objectId": "lS9B3RzSZa",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 49,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I’m afraid of her Eliza",
+        "createdAt": "2015-10-08T01:52:37.707Z",
+        "updatedAt": "2015-10-08T01:52:37.707Z",
+        "objectId": "fmnBK7RCfR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:38.084Z",
+        "updatedAt": "2015-10-08T01:52:38.084Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "As if she’s draining me",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 50,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "wMW79q280x",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:38.439Z",
+        "updatedAt": "2017-06-30T15:24:32.290Z",
+        "ordinalInStory": 51,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What if she’s trying to hurt me back. Or Kill me?",
+        "isTypingIntroDuration": 0,
+        "risk": 3,
+        "objectId": "1kYIYdUfy5",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Jeez Jenna. All in your head",
+        "createdAt": "2015-10-08T01:52:38.795Z",
+        "updatedAt": "2017-06-30T15:39:12.465Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 52,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "5tIoZzleh6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 53,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text":
+          "Just make yourself a nice veggie smoothie and put on some ambient music when you go to bed",
+        "createdAt": "2015-10-08T01:52:39.145Z",
+        "updatedAt": "2017-06-30T15:39:07.029Z",
+        "isTypingIntroDuration": 0,
+        "risk": 3,
+        "objectId": "5rCI9AveJJ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "You’ll feel better",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 54,
+        "createdAt": "2015-10-08T01:52:39.511Z",
+        "updatedAt": "2017-06-30T17:27:04.074Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 1,
+        "objectId": "DokLpNuogV",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:39.891Z",
+        "updatedAt": "2017-06-30T17:17:51.673Z",
+        "text": "Ok …",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 55,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 1,
+        "objectId": "C7Hwxgmia3",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 56,
+        "createdAt": "2015-10-08T01:52:40.243Z",
+        "updatedAt": "2017-06-30T17:32:05.051Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "later that night",
+        "risk": 1,
+        "objectId": "EehW12VMca",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:40.604Z",
+        "updatedAt": "2015-10-08T01:52:40.604Z",
+        "text": "ELIZA",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 57,
+        "objectId": "eybMTCLvQO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:40.958Z",
+        "updatedAt": "2015-10-08T01:52:40.958Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "HEY!!!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 58,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "oXMQConpS2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Jenna? What’s the matter? It’s 3am!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 59,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:41.314Z",
+        "updatedAt": "2017-06-30T15:21:44.772Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 1,
+        "objectId": "0rHKVHQURB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "SHE’S HERE",
+        "createdAt": "2015-10-08T01:52:41.677Z",
+        "updatedAt": "2015-10-08T01:52:41.677Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 60,
+        "objectId": "jn8GaDrlvl",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:42.044Z",
+        "text": "Who? What are you taking about?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 61,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:42.044Z",
+        "objectId": "utcC8J5s5U",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:42.400Z",
+        "updatedAt": "2015-10-08T01:52:42.400Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 62,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "AKASHA",
+        "objectId": "jgG6sbaIv4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:42.761Z",
+        "updatedAt": "2015-10-08T01:52:42.761Z",
+        "text": "Ah not this again! I need to sleep",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 63,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "lxR67JHetk",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:43.607Z",
+        "updatedAt": "2015-10-08T01:52:43.607Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 64,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "HER EYES ARE RED AGAIN",
+        "objectId": "LboVU4Z1KW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:43.976Z",
+        "updatedAt": "2015-10-08T01:52:43.976Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 65,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "IuBGDtrMM8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I woke up in the middle of the night",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:44.339Z",
+        "updatedAt": "2015-10-08T01:52:44.339Z",
+        "ordinalInStory": 66,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "fLH4zQyaGB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:44.709Z",
+        "updatedAt": "2015-10-08T01:52:44.709Z",
+        "text": "Something was bothering me",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 67,
+        "objectId": "TPgyaSlXqi",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I swatted against it",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:45.079Z",
+        "updatedAt": "2015-10-08T01:52:45.079Z",
+        "ordinalInStory": 68,
+        "objectId": "YfExlKwzFT",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:45.440Z",
+        "text": "And something hissed and bit me",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 69,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:45.440Z",
+        "objectId": "bFKHrbgB3B",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:45.788Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 70,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "So you scared her",
+        "createdAt": "2015-10-08T01:52:45.788Z",
+        "objectId": "WNwD8SKrFC",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "Then I felt blood",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 71,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:47.337Z",
+        "updatedAt": "2015-10-08T01:52:47.337Z",
+        "objectId": "KkCC5bkv4c",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:47.760Z",
+        "updatedAt": "2015-10-08T01:52:47.760Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Well she bit you right?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 72,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "oM9dioxcWd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "ON MY NECK",
+        "createdAt": "2015-10-08T01:52:48.121Z",
+        "updatedAt": "2017-06-30T15:59:09.615Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 73,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 2,
+        "objectId": "A2gJHv5BXA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:48.475Z",
+        "updatedAt": "2017-06-30T15:45:27.465Z",
+        "text": "What?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 74,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "7RlGkdINfi",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 75,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:48.851Z",
+        "updatedAt": "2015-10-08T01:52:48.851Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "SHE HAD BEEN DRINKING IT",
+        "isTypingIntroDuration": 0,
+        "objectId": "lloGp4mpOw",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:49.213Z",
+        "updatedAt": "2015-10-08T01:52:49.213Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "WHAT Come on",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 76,
+        "objectId": "Hj7XIhv3Cr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "And my hand, where she bit me",
+        "createdAt": "2015-10-08T01:52:49.570Z",
+        "updatedAt": "2017-06-30T15:55:08.055Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 77,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 2,
+        "objectId": "9I6YZGBGxo",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 78,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Two spots, like mosquito bites",
+        "createdAt": "2015-10-08T01:52:49.924Z",
+        "updatedAt": "2017-06-30T15:57:34.054Z",
+        "risk": 2,
+        "objectId": "9itQzKmCor",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:36:41.829Z",
+        "text": "NOT mosquito bites",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 79,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:50.283Z",
+        "risk": 2,
+        "objectId": "5H7YmepPXf",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "She has FANGS",
+        "createdAt": "2015-10-08T01:52:50.640Z",
+        "updatedAt": "2015-10-08T01:52:50.640Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 80,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "qMzJbID4wU",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Is this some sort of nightmare you’re having?",
+        "createdAt": "2015-10-08T01:52:50.993Z",
+        "updatedAt": "2015-10-08T01:52:50.993Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 81,
+        "objectId": "r3OExLNixL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:51.350Z",
+        "updatedAt": "2015-10-08T01:52:51.350Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 82,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She’s RIGHT THERE",
+        "objectId": "fz9GgToTAg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 83,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:51.707Z",
+        "updatedAt": "2015-10-08T01:52:51.707Z",
+        "text": "Hissing at me",
+        "isTypingIntroDuration": 0,
+        "objectId": "mZURzsR2QU",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I CAN SEE THE FANGS",
+        "createdAt": "2015-10-08T01:52:52.068Z",
+        "updatedAt": "2015-10-08T01:52:52.068Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 84,
+        "objectId": "baV1Qcjtk4",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:52.420Z",
+        "updatedAt": "2017-06-30T15:30:10.846Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "And her eyes have turned red",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 85,
+        "risk": 1,
+        "objectId": "3Sa4yVmXXc",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 86,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She’s a VAMPIRE!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:52.778Z",
+        "updatedAt": "2015-10-08T01:52:52.778Z",
+        "objectId": "qnfDegjAKu",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:53.136Z",
+        "updatedAt": "2015-10-08T01:52:53.136Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Jesus",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 87,
+        "objectId": "lS0dfPy4rd",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Well get out of there then!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:53.496Z",
+        "updatedAt": "2015-10-08T01:52:53.496Z",
+        "ordinalInStory": 88,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "Vk5PagRFBL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 89,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Can’t, she’s blocking the door",
+        "createdAt": "2015-10-08T01:52:53.851Z",
+        "updatedAt": "2015-10-08T01:52:53.851Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "m1bdxSpeGY",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:54.210Z",
+        "updatedAt": "2017-06-30T16:00:41.143Z",
+        "text": "She’s a CAT",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 90,
+        "risk": 1,
+        "objectId": "AL5QleHckt",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "I tried to",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:54.584Z",
+        "updatedAt": "2015-10-08T01:52:54.584Z",
+        "ordinalInStory": 91,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "rg7DdLjQtR",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:54.946Z",
+        "updatedAt": "2017-06-30T17:32:17.282Z",
+        "text": "She jumped at me",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 92,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "risk": 1,
+        "objectId": "Egqa2oi9tG",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Now my other hand is all bloody as well",
+        "createdAt": "2015-10-08T01:52:55.317Z",
+        "updatedAt": "2017-06-30T15:29:56.305Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 93,
+        "risk": 5,
+        "objectId": "3OcgI4jpeM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:52:55.672Z",
+        "updatedAt": "2015-10-08T01:52:55.672Z",
+        "text": "I’M FREAKING OUT",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 94,
+        "objectId": "Yn43RPtIWM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:56.041Z",
+        "updatedAt": "2015-10-08T01:52:56.041Z",
+        "ordinalInStory": 95,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Omg I just remembered",
+        "objectId": "wGaeQdqADH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:52:56.433Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 96,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:56.433Z",
+        "objectId": "sFpDy00d3Q",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 97,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:56.788Z",
+        "updatedAt": "2015-10-08T01:52:56.788Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Akasha … I’ve heard that before",
+        "objectId": "j7svoyipda",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I saw a movie",
+        "createdAt": "2015-10-08T01:52:57.164Z",
+        "updatedAt": "2015-10-08T01:52:57.164Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 98,
+        "objectId": "lF8bePkm5c",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:57.518Z",
+        "updatedAt": "2015-10-08T01:52:57.518Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "A horror movie sort of",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 99,
+        "objectId": "QSXGtFLJ0W",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 100,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Akasha was the main Vampire Mother …",
+        "createdAt": "2015-10-08T01:52:57.877Z",
+        "updatedAt": "2015-10-08T01:52:57.877Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "Gdrdnw4636",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Oh god",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:52:58.237Z",
+        "updatedAt": "2015-10-08T01:52:58.237Z",
+        "ordinalInStory": 101,
+        "objectId": "ywQkJhGSzM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 102,
+        "createdAt": "2015-10-08T01:52:58.583Z",
+        "updatedAt": "2015-10-08T01:52:58.583Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She’s going to kill me",
+        "isTypingIntroDuration": 0,
+        "objectId": "fteAjYh6Dx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 103,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:52:58.941Z",
+        "updatedAt": "2017-06-30T15:30:46.572Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Or turn me into a weird cat vampire",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "3eeup1n4sr",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:59.374Z",
+        "updatedAt": "2017-06-30T15:29:06.666Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 104,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Well why hasn’t she?",
+        "risk": 1,
+        "objectId": "36QpaTGAl5",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:52:59.820Z",
+        "updatedAt": "2015-10-08T01:52:59.820Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What do you mean?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 105,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "ySbhK8QPdN",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 106,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Why hasn’t she killed you yet?",
+        "createdAt": "2015-10-08T01:53:00.174Z",
+        "updatedAt": "2017-06-30T15:36:42.659Z",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "5HMsmCQPt6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "THANKS that’s so nice of you",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 107,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:53:00.529Z",
+        "updatedAt": "2017-06-30T15:40:36.824Z",
+        "risk": 1,
+        "objectId": "6HUIKM8hui",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "No I mean, she could have, clearly",
+        "createdAt": "2015-10-08T01:53:00.888Z",
+        "updatedAt": "2015-10-08T01:53:00.888Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 108,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "ZMLxpcWdCo",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:01.246Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 109,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "While you were sleeping",
+        "createdAt": "2015-10-08T01:53:01.246Z",
+        "objectId": "s3AAbiMCm2",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text":
+          "But she was keeping you ALIVE … And she’s letting you use your phone",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:01.712Z",
+        "updatedAt": "2015-10-08T01:53:01.712Z",
+        "ordinalInStory": 110,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "L4EczzaNm9",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 111,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What are you saying",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:02.071Z",
+        "updatedAt": "2015-10-08T01:53:02.071Z",
+        "objectId": "NJoh5O9i7F",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:02.421Z",
+        "updatedAt": "2017-06-30T17:45:20.824Z",
+        "ordinalInStory": 112,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She WANTS something",
+        "isTypingIntroDuration": 0,
+        "risk": 1,
+        "objectId": "GJDzKSeewM",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:58:31.155Z",
+        "text": "What could she possibly want?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 113,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:53:02.781Z",
+        "risk": 1,
+        "objectId": "9uDLk1oehX",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Wait",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 114,
+        "createdAt": "2015-10-08T01:53:03.139Z",
+        "updatedAt": "2015-10-08T01:53:03.139Z",
+        "objectId": "j3fYVKCUS0",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 115,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "What? There’s blood everywhere on me, hurry up!!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:03.496Z",
+        "updatedAt": "2017-06-30T17:48:52.329Z",
+        "risk": 3,
+        "objectId": "GU6zxPTtDx",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:03.866Z",
+        "updatedAt": "2015-10-08T01:53:03.866Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Akasha, the vampire MOTHER",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 116,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "hBnxAfpwEF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Yeah so?",
+        "createdAt": "2015-10-08T01:53:04.225Z",
+        "updatedAt": "2015-10-08T01:53:04.225Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 117,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "objectId": "TQNrqfFYQA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:04.587Z",
+        "updatedAt": "2015-10-08T01:53:04.587Z",
+        "ordinalInStory": 118,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "YOU TOOK HER LITTER AWAY",
+        "isTypingIntroDuration": 0,
+        "objectId": "vhzDvGuoPL",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She wants her children?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 119,
+        "createdAt": "2015-10-08T01:53:04.956Z",
+        "updatedAt": "2017-06-30T17:22:15.647Z",
+        "risk": 1,
+        "objectId": "CwxG4CV38v",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "WHERE ARE THEY",
+        "createdAt": "2015-10-08T01:53:05.320Z",
+        "updatedAt": "2015-10-08T01:53:05.320Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 120,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "qu4PWTTvve",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:06.675Z",
+        "updatedAt": "2015-10-08T01:53:06.675Z",
+        "ordinalInStory": 121,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "There were only two really, and I heard that one died",
+        "isTypingIntroDuration": 0,
+        "objectId": "IMMi0nqGjB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:07.000Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Where is the last one??",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 122,
+        "createdAt": "2015-10-08T01:53:07.000Z",
+        "objectId": "dKAAEL993x",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 123,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:53:07.372Z",
+        "updatedAt": "2015-10-08T01:53:07.372Z",
+        "text": "I gave it to Jack",
+        "objectId": "X5juxB4pmQ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 124,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Your ex, Jack?",
+        "createdAt": "2015-10-08T01:53:07.727Z",
+        "updatedAt": "2017-06-30T17:28:52.206Z",
+        "risk": 2,
+        "objectId": "E9AL9eBw2r",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Yes",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 125,
+        "createdAt": "2015-10-08T01:53:08.082Z",
+        "updatedAt": "2015-10-08T01:53:08.082Z",
+        "objectId": "OvS6ugi2pm",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Oh god, she’s coming CLOSER!",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:08.437Z",
+        "updatedAt": "2015-10-08T01:53:08.437Z",
+        "ordinalInStory": 126,
+        "objectId": "JvRUFs5pku",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:08.794Z",
+        "updatedAt": "2015-10-08T01:53:08.794Z",
+        "text": "Does she know what we’re talking about?",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 127,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "PU4yg4YrSm",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 128,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:53:09.149Z",
+        "updatedAt": "2017-06-30T15:51:38.884Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I don’t know, she’s REALLY CLOSE NOW",
+        "isTypingIntroDuration": 0,
+        "risk": 2,
+        "objectId": "8dj8qLPyjB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "This is horrible",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 129,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:53:09.503Z",
+        "updatedAt": "2015-10-08T01:53:09.503Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "wwAC7KU9gh",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "HOLD ON I’ll go get her kitten",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:09.858Z",
+        "updatedAt": "2015-10-08T01:53:09.858Z",
+        "ordinalInStory": 130,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "brH7lB61XW",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:10.221Z",
+        "updatedAt": "2015-10-08T01:53:10.221Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 131,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "an hour later",
+        "objectId": "Xhc0I3FCMn",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "You still there?",
+        "createdAt": "2015-10-08T01:53:10.589Z",
+        "updatedAt": "2015-10-08T01:53:10.589Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 132,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "X8o5HZoEGn",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T15:22:20.630Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 133,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "WHERE HAVE YOU BEEN",
+        "createdAt": "2015-10-08T01:53:10.944Z",
+        "risk": 1,
+        "objectId": "14vTLOd2xB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:11.300Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 134,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She’s BIT me again, she’s getting impatient",
+        "createdAt": "2015-10-08T01:53:11.300Z",
+        "objectId": "zWU0ylyhsB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:11.676Z",
+        "ordinalInStory": 135,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I’m about to faint, I’m freaking out",
+        "isTypingIntroDuration": 0,
+        "createdAt": "2015-10-08T01:53:11.676Z",
+        "objectId": "Hla78qMbDt",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:12.035Z",
+        "updatedAt": "2017-06-30T15:21:27.301Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 136,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "I’M HERE with the kitten!!",
+        "risk": 1,
+        "objectId": "0m0rjrQsqF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:12.392Z",
+        "updatedAt": "2017-06-30T15:49:55.198Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Not sure how I managed to convince Jack, but he gave it to me",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 137,
+        "risk": 2,
+        "objectId": "8HXrPx62Wt",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:12.750Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 138,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "He thinks I’m crazy for sure",
+        "createdAt": "2015-10-08T01:53:12.750Z",
+        "objectId": "RlgKuVi4Za",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:13.098Z",
+        "text": "Let it in through the cat door!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 139,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:53:13.098Z",
+        "objectId": "XOV1yGOn0e",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2017-06-30T17:16:15.202Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 140,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Ok here we go",
+        "createdAt": "2015-10-08T01:53:13.456Z",
+        "risk": 1,
+        "objectId": "BoSSI7x34o",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:13.808Z",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 141,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Jenna?",
+        "createdAt": "2015-10-08T01:53:13.808Z",
+        "objectId": "sfWiDkXnoV",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:14.171Z",
+        "text": "It’s working!!",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 142,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:53:14.171Z",
+        "objectId": "qcmhBHqbVV",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:14.521Z",
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "She’s backed off",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 143,
+        "createdAt": "2015-10-08T01:53:14.521Z",
+        "objectId": "Hp9XenzH2H",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:14.879Z",
+        "updatedAt": "2015-10-08T01:53:14.879Z",
+        "text": "She’s licking him, no more red eyes",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 144,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "objectId": "lEeoqOB70B",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Pheeew",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 145,
+        "createdAt": "2015-10-08T01:53:15.238Z",
+        "updatedAt": "2015-10-08T01:53:15.238Z",
+        "objectId": "dD2tyAKdfs",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 146,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Open the door so we can clean you up!",
+        "createdAt": "2015-10-08T01:53:15.588Z",
+        "updatedAt": "2015-10-08T01:53:15.588Z",
+        "isTypingIntroDuration": 0,
+        "objectId": "LmZQl4K3RN",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "ordinalInStory": 147,
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "createdAt": "2015-10-08T01:53:16.006Z",
+        "updatedAt": "2015-10-08T01:53:16.006Z",
+        "text": "two days later",
+        "isTypingIntroDuration": 0,
+        "objectId": "ZO2Kc8TrVB",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "createdAt": "2015-10-08T01:53:16.361Z",
+        "updatedAt": "2017-06-30T15:49:29.262Z",
+        "text": "How is everything? You looked very pale today",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 148,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.666Z",
+          "updatedAt": "2017-08-18T15:24:33.289Z",
+          "name": "Eliza",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:24:33.257Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "Po5b7FBpA2",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "risk": 2,
+        "objectId": "8D0kEZPcFI",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "updatedAt": "2015-10-08T01:53:16.913Z",
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "jWnxXWw5B6"
+        },
+        "text": "Yeah well, I have two cats to feed now…",
+        "isTypingIntroDuration": 0,
+        "ordinalInStory": 149,
+        "sender": {
+          "createdAt": "2015-10-08T01:52:17.315Z",
+          "updatedAt": "2017-08-18T15:26:10.093Z",
+          "name": "Jenna",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:26:10.077Z"
+          },
+          "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+          "objectId": "wifzlnd64Y",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "createdAt": "2015-10-08T01:53:16.913Z",
+        "objectId": "qz7BBoLYsI",
+        "__type": "Object",
+        "className": "Message"
+      }
+    ]
+  }
+}

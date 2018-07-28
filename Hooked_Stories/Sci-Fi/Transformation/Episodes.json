@@ -1,0 +1,238 @@
+{
+  "result": {
+    "stories": [
+      {
+        "createdAt": "2015-09-06T07:35:19.918Z",
+        "updatedAt": "2018-07-04T05:20:07.020Z",
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "DTTgigkp8d"
+          }
+        ],
+        "characters": [
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "UcKGSa7Isi"
+          },
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "7cUiYKx47f"
+          },
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "yoGh3su8wr"
+          }
+        ],
+        "storyDescription": "Emily: Hey where were you today?",
+        "title": "Transformation",
+        "uid": "transformation",
+        "coverImageFile": {
+          "__type": "File",
+          "name": "mfp_7ce318b6d9a043870479c97a62225a13389.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_7ce318b6d9a043870479c97a62225a13389.jpg"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "8e549012a810c825f5cba225158ad81e_file.bin",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/8e549012a810c825f5cba225158ad81e_file.bin"
+        },
+        "commentCount": 27,
+        "loveCount": 87,
+        "trackMessage": false,
+        "hidden": false,
+        "editorsChoice": false,
+        "coverImageLoRes": {
+          "__type": "File",
+          "name": "mfp_eca706c47cead780526ca3180777ca71389-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/mfp_eca706c47cead780526ca3180777ca71389-thumbnail-lores.jpg"
+        },
+        "author": {
+          "bio":
+            "Peter Petkovsek is a Columbia University School of the Arts graduate. Originally from Slovenia, he spends his time directing, writing and creating around the world.",
+          "username": "PeterPetkovsek",
+          "lastName": "Petkovsek",
+          "_perishable_token": "sFDHu6ao5li5jmJPxxSwedNkE",
+          "fullName": "Peter Petkovsek",
+          "createdAt": "2016-02-20T00:15:26.975Z",
+          "updatedAt": "2018-06-16T07:23:28.720Z",
+          "profilePictureSmall": {
+            "__type": "File",
+            "name": "65ccf69da2045e0d5f7c5c462268d60a_81-small.jpg",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/65ccf69da2045e0d5f7c5c462268d60a_81-small.jpg"
+          },
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "aef7228a2fbdf80fe398b0b9f652c648_81-medium.jpg",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/aef7228a2fbdf80fe398b0b9f652c648_81-medium.jpg"
+          },
+          "firstName": "Peter",
+          "followerCount": 376,
+          "readCount": 0,
+          "bookmarkCount": 0,
+          "writeCount": 24,
+          "followingCount": 5,
+          "loveCount": 0,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-15T13:58:00.236Z"
+          },
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-25T17:53:15.914Z"
+          },
+          "canonicalUsername": "peterpetkovsek",
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2018-03-24T00:52:28.689Z"
+          },
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-16T07:23:28.708Z"
+          },
+          "autoFolloweesFollowers": [],
+          "objectId": "nOlqf4LPCf",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "genre": "Sci-Fi",
+        "episodeSeriesName": "",
+        "tags": [],
+        "episodeCount": 1,
+        "episodeIndex": 1,
+        "inappropriateContent": false,
+        "pendingDeletion": false,
+        "inappropriateContentFlaggers": [],
+        "seriesTitle": "Transformation",
+        "wordCount": 959,
+        "editedAt": { "__type": "Date", "iso": "2017-06-30T17:50:23.062Z" },
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T08:54:13.192Z"
+        },
+        "readCount": 4264,
+        "searchTerms": [
+          "p",
+          "pe",
+          "pet",
+          "pete",
+          "peter",
+          "peterp",
+          "peterpe",
+          "peterpet",
+          "peterpetk",
+          "peterpetko",
+          "peterpetkov",
+          "peterpetkovs",
+          "peterpetkovse",
+          "peterpetkovsek",
+          "petk",
+          "petko",
+          "petkov",
+          "petkovs",
+          "petkovse",
+          "petkovsek",
+          "t",
+          "tr",
+          "tra",
+          "tran",
+          "trans",
+          "transf",
+          "transfo",
+          "transfor",
+          "transform",
+          "transforma",
+          "transformat",
+          "transformati",
+          "transformatio",
+          "transformation"
+        ],
+        "seriesTitleAutoGenerated": true,
+        "createdOutsideApp": true,
+        "readVelocity": 7,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "RSJZNg1UH9"
+        },
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:20:23.536Z"
+        },
+        "previousReadVelocity": 6,
+        "readAcceleration": 1,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:13:00.167Z"
+        },
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T04:11:00.947Z"
+        },
+        "loveRatio": 0.020403377110694183,
+        "sentimentAverage": 2.105263157894737,
+        "sentimentCount": 19,
+        "commentRatio": 0.0063410051667449506,
+        "authorsObjectIds": ["nOlqf4LPCf"],
+        "recommendable": true,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T15:22:40.300Z"
+        },
+        "seriesIdentifier": "3057a585-8a72-d685-b13c-cacc1c6a6957",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/KXOSse0XbQ/video_59055ac50dead.mov",
+        "completionRate": 47.46296879924362,
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:20:02.065Z"
+        },
+        "completionRate_ios": 61.36191677175284,
+        "completionRate_android": 24.317513649727005,
+        "seriesCompletionRate_ios": 61.36191677175284,
+        "seriesCompletionRate_android": 24.317513649727005,
+        "seriesCompletionRate": 47.46296879924362,
+        "started_ios": 3965,
+        "completed_ios": 2433,
+        "seriesAverageCompletionRate_ios": 61.36191677175284,
+        "seriesAverageCompletionRate_android": 24.317513649727005,
+        "seriesAverageCompletionRate": 47.46296879924362,
+        "metascore": 53.17831582026078,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:28:07.119Z"
+        },
+        "searchable": true,
+        "readable": true,
+        "started_android": 2381,
+        "completed_android": 579,
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:21:19.201Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 3,
+        "rd_started_ios": 239,
+        "rd_started_android": 846,
+        "rd_completed_ios": 177,
+        "rd_completed_android": 80,
+        "rd_completionRate_ios": 74.05857740585775,
+        "rd_completionRate_android": 9.456264775413711,
+        "risk": 4,
+        "ACL": { "*": { "read": true }, "nOlqf4LPCf": { "write": true } },
+        "objectId": "KXOSse0XbQ",
+        "__type": "Object",
+        "className": "Story"
+      }
+    ]
+  }
+}

@@ -1,0 +1,792 @@
+{
+  "result": {
+    "stories": [
+      {
+        "characters": [],
+        "createdAt": "2015-07-21T01:07:48.002Z",
+        "updatedAt": "2018-07-04T05:22:42.674Z",
+        "storyDescription":
+          "Sometimes, you just need to give  things a new name.",
+        "title": "I Am Eggplant - Part 1",
+        "uid": "iameggplant",
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "G39MEa8gap"
+          }
+        ],
+        "coverImageFile": {
+          "__type": "File",
+          "name":
+            "116e58ced4e14b27467442bc261cf2f3_new_i_am_eggplant_cover.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/116e58ced4e14b27467442bc261cf2f3_new_i_am_eggplant_cover.jpg"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "d5d000fd2732f07e22c4f282edaf36ff_242-thumbnail.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/d5d000fd2732f07e22c4f282edaf36ff_242-thumbnail.jpg"
+        },
+        "loveCount": 1587,
+        "commentCount": 436,
+        "trackMessage": true,
+        "hidden": false,
+        "editorsChoice": false,
+        "coverImageLoRes": {
+          "__type": "File",
+          "name": "c350db3d92634b4fd356c1c1d132019a_242-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/c350db3d92634b4fd356c1c1d132019a_242-thumbnail-lores.jpg"
+        },
+        "author": {
+          "updatedAt": "2018-06-27T18:25:09.131Z",
+          "username": "ZacKish",
+          "_perishable_token": "ipJpiIaH7fS5Hk6f6QtuGiDjn",
+          "authData": {
+            "facebook": {
+              "access_token":
+                "CAAX8aKjDaqcBAAV9GBuhYtMPVYcPzs1LM7zp6xYUZA3IJWk5ZBeUiNDwxkqZCDN63B9dBJATZAtEExFXFsbMIe3xZBmaO705UpEe0UweoXAZB9oshfDAlzWGKDThfXJWduEME9gFvRHUXQzNncsl9ntrDYuWasdkgJLMFf4iPBcW1zL5tMQ5m5uG4tJyWw3KL6bj3heIwF0ZAe40GHlEccXATZB35LmNMgsZD",
+              "expiration_date": "2016-04-02T05:20:21.118Z",
+              "id": "10154469540607004"
+            }
+          },
+          "createdAt": "2016-02-02T05:20:22.592Z",
+          "facebookId": "10154469540607004",
+          "firstName": "Zac",
+          "fullName": "Zac Kish",
+          "lastName": "Kish",
+          "profilePictureSmall": {
+            "__type": "File",
+            "name": "mfp_a4d9b8bbb637e3547f49be7a43c81d8afile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a4d9b8bbb637e3547f49be7a43c81d8afile"
+          },
+          "autoFolloweesFollowers": [],
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "mfp_c36a0af39a99d36790660070d0f38e8efile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_c36a0af39a99d36790660070d0f38e8efile"
+          },
+          "followerCount": 581,
+          "followingCount": 5,
+          "loveCount": 0,
+          "readCount": 4,
+          "bookmarkCount": 0,
+          "writeCount": 6,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-15T12:33:00.720Z"
+          },
+          "bio": "",
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-25T17:59:20.952Z"
+          },
+          "canonicalUsername": "zackish",
+          "lastAuthoredUntitledNumber": 1,
+          "lastSeenAt": { "__type": "Date", "iso": "2016-07-03T10:47:16.910Z" },
+          "feedUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-02-15T04:33:10.116Z"
+          },
+          "digitsId": "746438644408299520",
+          "phone": "+15714842699",
+          "dailyNotifications": [
+            "20170216",
+            "Sy8duvpAqf",
+            "20170217",
+            "zUyzZKEJ7b",
+            "20170218",
+            "ucaWzBp2mi",
+            "20170219",
+            "Ib1J1VsAhv",
+            "20170220",
+            "7MjiqEhISk",
+            "20170221",
+            "SIWAvZwsMm",
+            "20170222",
+            "DYcvjFmZn2"
+          ],
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2017-10-21T16:40:12.425Z"
+          },
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-27T18:25:09.120Z"
+          },
+          "firebaseId": "746438644408299520",
+          "objectId": "p4AEaiN4aW",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "tags": ["Teen", "Drama"],
+        "genre": "Romance",
+        "episodeSeriesName": "Part 1",
+        "episodeIndex": 1,
+        "episodeCount": 3,
+        "inappropriateContent": false,
+        "pendingDeletion": false,
+        "inappropriateContentFlaggers": [],
+        "seriesTitle": "I Am Eggplant",
+        "editedAt": { "__type": "Date", "iso": "2017-06-30T16:35:20.212Z" },
+        "wordCount": 736,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T09:03:45.012Z"
+        },
+        "readCount": 98579,
+        "searchTerms": [
+          "1",
+          "a",
+          "am",
+          "d",
+          "dr",
+          "dra",
+          "dram",
+          "drama",
+          "e",
+          "eg",
+          "egg",
+          "eggp",
+          "eggpl",
+          "eggpla",
+          "eggplan",
+          "eggplant",
+          "i",
+          "k",
+          "ki",
+          "kis",
+          "kish",
+          "p",
+          "pa",
+          "par",
+          "part",
+          "t",
+          "te",
+          "tee",
+          "teen",
+          "z",
+          "za",
+          "zac",
+          "zack",
+          "zacki",
+          "zackis",
+          "zackish"
+        ],
+        "seriesTitleAutoGenerated": true,
+        "createdOutsideApp": true,
+        "episodeTitle": "Part 1",
+        "canonicalTitle": "i am eggplant",
+        "readVelocity": 30,
+        "risk": 3,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "PE8id6J1mi"
+        },
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:21:00.578Z"
+        },
+        "previousReadVelocity": 30,
+        "readAcceleration": 0,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:01:00.032Z"
+        },
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T04:44:01.036Z"
+        },
+        "loveRatio": 0.016098763428316374,
+        "sentimentAverage": 2.3949999999999987,
+        "sentimentCount": 200,
+        "commentRatio": 0.004424150177574835,
+        "authorsObjectIds": ["p4AEaiN4aW"],
+        "recommendable": true,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T15:22:59.541Z"
+        },
+        "seriesIdentifier": "7332378d-8c47-bfca-cb63-ab4de10a9d6c",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/WaXrEL9bC7/video_5902bdccb019e.mov",
+        "completionRate": 39.66874764216957,
+        "soundFile": null,
+        "backgroundImageFile": null,
+        "alreadyPublished": false,
+        "prompt": "",
+        "coauthors": null,
+        "style": null,
+        "alwaysFree": false,
+        "appropriateContent": false,
+        "completed_ios": 23675,
+        "started_ios": 59737,
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:10:03.177Z"
+        },
+        "completionRate_ios": 39.634044262898854,
+        "completionRate_android": 39.761130175141496,
+        "seriesCompletionRate_ios": 30.635818796665216,
+        "seriesCompletionRate_android": 21.34230580685414,
+        "seriesCompletionRate": 28.098037068136737,
+        "started_android": 22441,
+        "seriesAverageCompletionRate_ios": 53.87463888645715,
+        "seriesAverageCompletionRate_android": 38.59692922231931,
+        "seriesAverageCompletionRate": 48.8441461595824,
+        "completed_android": 8922,
+        "metascore": 47.82240076792414,
+        "searchable": true,
+        "readable": true,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:32:06.344Z"
+        },
+        "audioSoundFileUrl": null,
+        "audioSynchronizationData": null,
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:24:39.492Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 4,
+        "rd_started_ios": 1123,
+        "rd_started_android": 5203,
+        "rd_completed_ios": 550,
+        "rd_completed_android": 287,
+        "rd_completionRate_ios": 48.975957257346394,
+        "rd_completionRate_android": 5.516048433596002,
+        "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+        "objectId": "WaXrEL9bC7",
+        "__type": "Object",
+        "className": "Story"
+      },
+      {
+        "seriesTitle": "I Am Eggplant",
+        "pendingDeletion": false,
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "G39MEa8gap"
+          }
+        ],
+        "tags": ["Teen", "Drama"],
+        "episodeCount": 3,
+        "episodeIndex": 2,
+        "title": "I Am Eggplant - Part 2",
+        "canonicalTitle": "i am eggplant",
+        "inappropriateContent": false,
+        "uid": "iameggplant-2",
+        "hidden": false,
+        "author": {
+          "updatedAt": "2018-06-27T18:25:09.131Z",
+          "username": "ZacKish",
+          "_perishable_token": "ipJpiIaH7fS5Hk6f6QtuGiDjn",
+          "authData": {
+            "facebook": {
+              "access_token":
+                "CAAX8aKjDaqcBAAV9GBuhYtMPVYcPzs1LM7zp6xYUZA3IJWk5ZBeUiNDwxkqZCDN63B9dBJATZAtEExFXFsbMIe3xZBmaO705UpEe0UweoXAZB9oshfDAlzWGKDThfXJWduEME9gFvRHUXQzNncsl9ntrDYuWasdkgJLMFf4iPBcW1zL5tMQ5m5uG4tJyWw3KL6bj3heIwF0ZAe40GHlEccXATZB35LmNMgsZD",
+              "expiration_date": "2016-04-02T05:20:21.118Z",
+              "id": "10154469540607004"
+            }
+          },
+          "createdAt": "2016-02-02T05:20:22.592Z",
+          "facebookId": "10154469540607004",
+          "firstName": "Zac",
+          "fullName": "Zac Kish",
+          "lastName": "Kish",
+          "profilePictureSmall": {
+            "__type": "File",
+            "name": "mfp_a4d9b8bbb637e3547f49be7a43c81d8afile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a4d9b8bbb637e3547f49be7a43c81d8afile"
+          },
+          "autoFolloweesFollowers": [],
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "mfp_c36a0af39a99d36790660070d0f38e8efile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_c36a0af39a99d36790660070d0f38e8efile"
+          },
+          "followerCount": 581,
+          "followingCount": 5,
+          "loveCount": 0,
+          "readCount": 4,
+          "bookmarkCount": 0,
+          "writeCount": 6,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-15T12:33:00.720Z"
+          },
+          "bio": "",
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-25T17:59:20.952Z"
+          },
+          "canonicalUsername": "zackish",
+          "lastAuthoredUntitledNumber": 1,
+          "lastSeenAt": { "__type": "Date", "iso": "2016-07-03T10:47:16.910Z" },
+          "feedUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-02-15T04:33:10.116Z"
+          },
+          "digitsId": "746438644408299520",
+          "phone": "+15714842699",
+          "dailyNotifications": [
+            "20170216",
+            "Sy8duvpAqf",
+            "20170217",
+            "zUyzZKEJ7b",
+            "20170218",
+            "ucaWzBp2mi",
+            "20170219",
+            "Ib1J1VsAhv",
+            "20170220",
+            "7MjiqEhISk",
+            "20170221",
+            "SIWAvZwsMm",
+            "20170222",
+            "DYcvjFmZn2"
+          ],
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2017-10-21T16:40:12.425Z"
+          },
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-27T18:25:09.120Z"
+          },
+          "firebaseId": "746438644408299520",
+          "objectId": "p4AEaiN4aW",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "characters": [],
+        "alreadyPublished": true,
+        "episodeSeriesName": "Part 2",
+        "inappropriateContentFlaggers": [],
+        "createdOutsideApp": true,
+        "updatedAt": "2018-07-04T05:10:08.187Z",
+        "storyDescription":
+          "Sometimes, you just need to give  things a new name.",
+        "editorsChoice": false,
+        "trackMessage": true,
+        "episodeTitle": "Part 2",
+        "createdAt": "2016-04-19T22:47:32.105Z",
+        "searchTerms": [
+          "2",
+          "a",
+          "am",
+          "d",
+          "dr",
+          "dra",
+          "dram",
+          "drama",
+          "e",
+          "eg",
+          "egg",
+          "eggp",
+          "eggpl",
+          "eggpla",
+          "eggplan",
+          "eggplant",
+          "i",
+          "k",
+          "ki",
+          "kis",
+          "kish",
+          "p",
+          "pa",
+          "par",
+          "part",
+          "t",
+          "te",
+          "tee",
+          "teen",
+          "z",
+          "za",
+          "zac",
+          "zack",
+          "zacki",
+          "zackis",
+          "zackish"
+        ],
+        "editedAt": { "__type": "Date", "iso": "2016-04-20T07:01:12.277Z" },
+        "seriesTitleAutoGenerated": true,
+        "genre": "Romance",
+        "coverImageLoRes": {
+          "__type": "File",
+          "name": "8472d516252c8651c66a6407f7bd21dc_1511-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/8472d516252c8651c66a6407f7bd21dc_1511-thumbnail-lores.jpg"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "3003b400af531cdd3ddd02488fa32ac4_1511-thumbnail.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/3003b400af531cdd3ddd02488fa32ac4_1511-thumbnail.jpg"
+        },
+        "coverImageFile": {
+          "__type": "File",
+          "name":
+            "dedae68647be3e358c892942c850bd38_new_i_am_eggplant_cover.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/dedae68647be3e358c892942c850bd38_new_i_am_eggplant_cover.jpg"
+        },
+        "readCount": 70956,
+        "wordCount": 887,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T09:51:05.851Z"
+        },
+        "loveCount": 893,
+        "readVelocity": 27,
+        "risk": 2,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "PE8id6J1mi"
+        },
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:22:53.407Z"
+        },
+        "previousReadVelocity": 28,
+        "readAcceleration": -1,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:01:00.032Z"
+        },
+        "commentCount": 158,
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T03:44:01.010Z"
+        },
+        "loveRatio": 0.012585264107334123,
+        "commentRatio": 0.002227548287043564,
+        "sentimentAverage": 2.6075949367088604,
+        "sentimentCount": 79,
+        "authorsObjectIds": ["p4AEaiN4aW"],
+        "recommendable": false,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T14:48:13.044Z"
+        },
+        "seriesIdentifier": "7332378d-8c47-bfca-cb63-ab4de10a9d6c",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/WaXrEL9bC7/video_5902bdccb019e.mov",
+        "completionRate": 59.349505762507015,
+        "completed_ios": 19566,
+        "started_ios": 28942,
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:10:03.177Z"
+        },
+        "completionRate_ios": 67.60417386497132,
+        "seriesCompletionRate_ios": 30.635818796665216,
+        "seriesCompletionRate_android": 21.34230580685414,
+        "seriesCompletionRate": 28.098037068136737,
+        "seriesAverageCompletionRate_ios": 53.87463888645715,
+        "seriesAverageCompletionRate_android": 38.59692922231931,
+        "seriesAverageCompletionRate": 48.8441461595824,
+        "started_android": 17392,
+        "completed_android": 7933,
+        "metascore": 58.966123942100424,
+        "completionRate_android": 45.61292548298068,
+        "searchable": true,
+        "readable": true,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:30:08.006Z"
+        },
+        "soundFile": null,
+        "backgroundImageFile": null,
+        "prompt": "",
+        "coauthors": null,
+        "style": null,
+        "alwaysFree": false,
+        "appropriateContent": false,
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:25:22.757Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 3,
+        "rd_started_ios": 537,
+        "rd_started_android": 6052,
+        "rd_completed_ios": 472,
+        "rd_completed_android": 238,
+        "rd_completionRate_ios": 87.89571694599627,
+        "rd_completionRate_android": 3.932584269662921,
+        "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+        "objectId": "pHPy83p6sU",
+        "__type": "Object",
+        "className": "Story"
+      },
+      {
+        "tags": [],
+        "seriesTitle": "I Am Eggplant",
+        "genre": "Romance",
+        "episodeTitle": "Part 3",
+        "hidden": false,
+        "authors": [
+          {
+            "__type": "Pointer",
+            "className": "Author",
+            "objectId": "G39MEa8gap"
+          }
+        ],
+        "uid": "iameggplant-3",
+        "editedAt": { "__type": "Date", "iso": "2016-04-25T19:01:31.456Z" },
+        "updatedAt": "2018-07-04T05:13:12.998Z",
+        "title": "I Am Eggplant - Part 3",
+        "canonicalTitle": "i am eggplant",
+        "episodeCount": 3,
+        "inappropriateContentFlaggers": [],
+        "seriesTitleAutoGenerated": true,
+        "episodeSeriesName": "Part 3",
+        "author": {
+          "updatedAt": "2018-06-27T18:25:09.131Z",
+          "username": "ZacKish",
+          "_perishable_token": "ipJpiIaH7fS5Hk6f6QtuGiDjn",
+          "authData": {
+            "facebook": {
+              "access_token":
+                "CAAX8aKjDaqcBAAV9GBuhYtMPVYcPzs1LM7zp6xYUZA3IJWk5ZBeUiNDwxkqZCDN63B9dBJATZAtEExFXFsbMIe3xZBmaO705UpEe0UweoXAZB9oshfDAlzWGKDThfXJWduEME9gFvRHUXQzNncsl9ntrDYuWasdkgJLMFf4iPBcW1zL5tMQ5m5uG4tJyWw3KL6bj3heIwF0ZAe40GHlEccXATZB35LmNMgsZD",
+              "expiration_date": "2016-04-02T05:20:21.118Z",
+              "id": "10154469540607004"
+            }
+          },
+          "createdAt": "2016-02-02T05:20:22.592Z",
+          "facebookId": "10154469540607004",
+          "firstName": "Zac",
+          "fullName": "Zac Kish",
+          "lastName": "Kish",
+          "profilePictureSmall": {
+            "__type": "File",
+            "name": "mfp_a4d9b8bbb637e3547f49be7a43c81d8afile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_a4d9b8bbb637e3547f49be7a43c81d8afile"
+          },
+          "autoFolloweesFollowers": [],
+          "profilePictureMedium": {
+            "__type": "File",
+            "name": "mfp_c36a0af39a99d36790660070d0f38e8efile",
+            "url":
+              "https://d3b7s6bg6ueiky.cloudfront.net/mfp_c36a0af39a99d36790660070d0f38e8efile"
+          },
+          "followerCount": 581,
+          "followingCount": 5,
+          "loveCount": 0,
+          "readCount": 4,
+          "bookmarkCount": 0,
+          "writeCount": 6,
+          "lastUpdateMetrics": {
+            "__type": "Date",
+            "iso": "2018-03-15T12:33:00.720Z"
+          },
+          "bio": "",
+          "usernameUpdatedAt": {
+            "__type": "Date",
+            "iso": "2016-03-25T17:59:20.952Z"
+          },
+          "canonicalUsername": "zackish",
+          "lastAuthoredUntitledNumber": 1,
+          "lastSeenAt": { "__type": "Date", "iso": "2016-07-03T10:47:16.910Z" },
+          "feedUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-02-15T04:33:10.116Z"
+          },
+          "digitsId": "746438644408299520",
+          "phone": "+15714842699",
+          "dailyNotifications": [
+            "20170216",
+            "Sy8duvpAqf",
+            "20170217",
+            "zUyzZKEJ7b",
+            "20170218",
+            "ucaWzBp2mi",
+            "20170219",
+            "Ib1J1VsAhv",
+            "20170220",
+            "7MjiqEhISk",
+            "20170221",
+            "SIWAvZwsMm",
+            "20170222",
+            "DYcvjFmZn2"
+          ],
+          "writtenStoryReadingRightsUntil": {
+            "__type": "Date",
+            "iso": "2017-10-21T16:40:12.425Z"
+          },
+          "lastNotificationCreatedAt": {
+            "__type": "Date",
+            "iso": "2018-06-27T18:25:09.120Z"
+          },
+          "firebaseId": "746438644408299520",
+          "objectId": "p4AEaiN4aW",
+          "__type": "Object",
+          "className": "_User"
+        },
+        "trackMessage": true,
+        "pendingDeletion": false,
+        "characters": [
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "1PcL4Mlfrq"
+          },
+          {
+            "__type": "Pointer",
+            "className": "Character",
+            "objectId": "w9jZy3t9oD"
+          }
+        ],
+        "editorsChoice": false,
+        "createdOutsideApp": true,
+        "coverImageFile": {
+          "__type": "File",
+          "name":
+            "c1718564c299f8853dccea550e44da61_new_i_am_eggplant_cover.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/c1718564c299f8853dccea550e44da61_new_i_am_eggplant_cover.jpg"
+        },
+        "coverImageThumbnailFile": {
+          "__type": "File",
+          "name": "03d7030206e25ece0d7f4f952920f197_1561-thumbnail.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/03d7030206e25ece0d7f4f952920f197_1561-thumbnail.jpg"
+        },
+        "storyDescription":
+          "Sometimes, you just need to give  things a new name.",
+        "inappropriateContent": false,
+        "episodeIndex": 3,
+        "alreadyPublished": true,
+        "searchTerms": [
+          "3",
+          "a",
+          "am",
+          "e",
+          "eg",
+          "egg",
+          "eggp",
+          "eggpl",
+          "eggpla",
+          "eggplan",
+          "eggplant",
+          "i",
+          "k",
+          "ki",
+          "kis",
+          "kish",
+          "p",
+          "pa",
+          "par",
+          "part",
+          "z",
+          "za",
+          "zac",
+          "zack",
+          "zacki",
+          "zackis",
+          "zackish"
+        ],
+        "createdAt": "2016-04-25T18:20:48.129Z",
+        "coverImageLoRes": {
+          "__type": "File",
+          "name": "fa7051c108764bb9f84fc00082619005_1561-thumbnail-lores.jpg",
+          "url":
+            "https://d3b7s6bg6ueiky.cloudfront.net/fa7051c108764bb9f84fc00082619005_1561-thumbnail-lores.jpg"
+        },
+        "readVelocity": 22,
+        "wordCount": 780,
+        "lastUpdateMetrics": {
+          "__type": "Date",
+          "iso": "2018-07-03T10:48:08.127Z"
+        },
+        "readCount": 62601,
+        "risk": 2,
+        "category": {
+          "__type": "Pointer",
+          "className": "Genre",
+          "objectId": "PE8id6J1mi"
+        },
+        "iOSUpdatedDerivativesAt": {
+          "__type": "Date",
+          "iso": "2016-09-14T10:23:04.889Z"
+        },
+        "loveCount": 1805,
+        "commentCount": 872,
+        "previousReadVelocity": 24,
+        "readAcceleration": -2,
+        "scoreUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:13:00.167Z"
+        },
+        "sampleLovers": [],
+        "searchTermsUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T03:55:00.917Z"
+        },
+        "loveRatio": 0.028833405217169056,
+        "sentimentAverage": 2.7161125319693094,
+        "sentimentCount": 391,
+        "commentRatio": 0.01393416426973474,
+        "authorsObjectIds": ["p4AEaiN4aW"],
+        "recommendable": false,
+        "coverImageThumbnailUpdatedAt": {
+          "__type": "Date",
+          "iso": "2016-11-22T14:45:34.726Z"
+        },
+        "seriesIdentifier": "7332378d-8c47-bfca-cb63-ab4de10a9d6c",
+        "country": "en",
+        "lang": "en",
+        "teaserVideoUrl":
+          "http://dvgf17xr8ms83.cloudfront.net/WaXrEL9bC7/video_5902bdccb019e.mov",
+        "completionRate": 55.23684210526316,
+        "started_ios": 25554,
+        "completed_ios": 18300,
+        "completionRateUpdatedAt": {
+          "__type": "Date",
+          "iso": "2018-07-04T05:10:03.177Z"
+        },
+        "completionRate_ios": 71.61305470767786,
+        "completionRate_android": 29.478025360088637,
+        "seriesCompletionRate_ios": 30.635818796665216,
+        "seriesCompletionRate_android": 21.34230580685414,
+        "seriesCompletionRate": 28.098037068136737,
+        "started_android": 16246,
+        "seriesAverageCompletionRate_ios": 53.87463888645715,
+        "seriesAverageCompletionRate_android": 38.59692922231931,
+        "seriesAverageCompletionRate": 48.8441461595824,
+        "completed_android": 4789,
+        "metascore": 61.493932337411906,
+        "searchable": true,
+        "readable": true,
+        "riskUpdatedAt": {
+          "__type": "Date",
+          "iso": "2017-12-12T05:26:10.392Z"
+        },
+        "aclUpdatedAt": { "__type": "Date", "iso": "2017-08-18T09:30:27.640Z" },
+        "i18n": "fr,es,de,ja,ko,pt,it,ar",
+        "group": 2,
+        "rd_started_ios": 514,
+        "rd_started_android": 5906,
+        "rd_completed_ios": 455,
+        "rd_completed_android": 234,
+        "rd_completionRate_ios": 88.52140077821012,
+        "rd_completionRate_android": 3.962072468675923,
+        "ACL": { "*": { "read": true }, "p4AEaiN4aW": { "write": true } },
+        "objectId": "cYsjOG5rsH",
+        "__type": "Object",
+        "className": "Story"
+      }
+    ]
+  }
+}

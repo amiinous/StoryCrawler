@@ -1,0 +1,13 @@
+{
+  "name": "StoryCrawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aminous",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "exec": "^0.2.1",
+    "request": "^2.87.0",
+    "sync-request": "^6.0.0"
+  }
+}
