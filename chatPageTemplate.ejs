@@ -45,21 +45,23 @@
     .blue-bubble {
       background-color: #bcd2d0 !important;
     }
+
   </style>
 </head>
 
 <body>
   <div class="container">
     <div class="ui segment">
-        <h1 class="ui top attached header centered">
-          <%- name %>
+        <h1 class="ui header centered">
+        <%- name %>
         </h1>
+        <img src="<%-poster%>" width="100%" />
         <div class="ui medium relaxed list">
           <% episode.messages.forEach( message => { %>
             <% if(message.text) {   %>
-            <div class="item <%-message.sender ? (message.sender.name==='Alexis' ? 'left floated' : 'right floated') : ''%> ">
-              <div class="content <%-message.sender ? (message.sender.name==='Alexis' ? 'left floated' : 'right floated') : ''%>">
-                <div class="ui message <%-message.sender ? (message.sender.name==='Alexis' ? 'red-bubble' : 'blue-bubble') : ''%>">
+            <div class="item <%-message.sender ? (message.sender.name=== mainCharacter ? 'left floated' : 'right floated') : ''%> ">
+              <div class="content <%-message.sender ? (message.sender.name=== mainCharacter ? 'left floated' : 'right floated') : ''%>">
+                <div class="ui message <%-message.sender ? (message.sender.name=== mainCharacter ? 'red-bubble' : 'blue-bubble') : ''%>">
                   <% if(message.sender){ %>
                     <div class="header">
                       <%- message.sender ? message.sender.name : 'System' %>
