@@ -1,1 +1,595 @@
-{"result":{"cached":false,"messages":[{"text":"hello emily","ordinalInStory":1,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:07.178Z","updatedAt":"2016-08-30T19:23:07.178Z","objectId":"505KrMkc4y","__type":"Object","className":"Message"},{"text":"who's this?","ordinalInStory":2,"isTypingIntroDuration":0,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:07.389Z","updatedAt":"2016-08-30T19:23:07.389Z","objectId":"w9zjAMmJgE","__type":"Object","className":"Message"},{"text":"an old friend","ordinalInStory":3,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:07.556Z","updatedAt":"2016-08-30T19:23:07.556Z","objectId":"5ELlC1iu6V","__type":"Object","className":"Message"},{"text":"i have a message from your parents","ordinalInStory":4,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:07.728Z","updatedAt":"2016-08-30T19:23:07.728Z","objectId":"7TtQhGkUAH","__type":"Object","className":"Message"},{"text":"my parents are dead","ordinalInStory":5,"isTypingIntroDuration":0,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:07.950Z","updatedAt":"2016-08-30T19:23:07.950Z","objectId":"itAEZu9pxF","__type":"Object","className":"Message"},{"text":"i know how they died, emily","ordinalInStory":6,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.123Z","updatedAt":"2016-08-30T19:23:08.123Z","objectId":"fIvkaR11Z6","__type":"Object","className":"Message"},{"text":"how do you know my name?","ordinalInStory":7,"isTypingIntroDuration":0,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.298Z","updatedAt":"2016-08-30T19:23:08.298Z","objectId":"nLpl05sJV6","__type":"Object","className":"Message"},{"text":"i know many things","ordinalInStory":8,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.455Z","updatedAt":"2016-08-30T19:23:08.455Z","objectId":"l6xKgcih6S","__type":"Object","className":"Message"},{"text":"i know where you are right now","ordinalInStory":9,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.624Z","updatedAt":"2016-08-30T19:23:08.624Z","objectId":"tqxAi2tcHg","__type":"Object","className":"Message"},{"text":"and i know what happens to you at night","ordinalInStory":10,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.788Z","updatedAt":"2016-08-30T19:23:08.788Z","objectId":"n7TOSfZ2kC","__type":"Object","className":"Message"},{"text":"who are you?","ordinalInStory":11,"isTypingIntroDuration":-1,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:08.960Z","updatedAt":"2016-08-30T19:23:08.960Z","objectId":"6zlXLyAcnA","__type":"Object","className":"Message"},{"text":"no time to explain. your life is in danger","ordinalInStory":12,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:09.134Z","updatedAt":"2016-08-30T19:23:09.134Z","objectId":"ubCUqaSSdO","__type":"Object","className":"Message"},{"text":"you must do as i say","ordinalInStory":13,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:09.301Z","updatedAt":"2016-08-30T19:23:09.301Z","objectId":"TvBhV45tDm","__type":"Object","className":"Message"},{"text":"what do you want me to do?","ordinalInStory":14,"isTypingIntroDuration":0,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:09.476Z","updatedAt":"2016-08-30T19:23:09.476Z","objectId":"o5rYwl6ski","__type":"Object","className":"Message"},{"text":"turn around slowly","ordinalInStory":15,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:09.735Z","updatedAt":"2016-08-30T19:23:09.735Z","objectId":"dgarsIx5yJ","__type":"Object","className":"Message"},{"text":"do you see the man in the cloak?","ordinalInStory":16,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:09.903Z","updatedAt":"2016-08-30T19:23:09.903Z","objectId":"rw8l6iNE0h","__type":"Object","className":"Message"},{"text":"the man with the beard?","ordinalInStory":17,"isTypingIntroDuration":0,"sender":{"name":"emily","createdAt":"2016-08-30T19:23:03.078Z","updatedAt":"2017-08-18T15:56:42.134Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.084Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"yGiJ9AkvH3","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:10.066Z","updatedAt":"2016-08-30T19:23:10.066Z","objectId":"rhpHTl0g7o","__type":"Object","className":"Message"},{"text":"yes. in 10 seconds, he will look at you, and","ordinalInStory":18,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:10.243Z","updatedAt":"2016-08-30T19:23:10.243Z","objectId":"ZL0S6a2tEe","__type":"Object","className":"Message"},{"text":"he will gesture subtly","ordinalInStory":19,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:10.418Z","updatedAt":"2016-08-30T19:23:10.418Z","objectId":"o6TglD7Sun","__type":"Object","className":"Message"},{"text":"watch him carefully","ordinalInStory":20,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:10.598Z","updatedAt":"2016-08-30T19:23:10.598Z","objectId":"SJcfXdQkA8","__type":"Object","className":"Message"},{"text":"5 seconds…","ordinalInStory":21,"isTypingIntroDuration":0,"sender":{"name":"unknown","createdAt":"2016-08-30T19:23:02.914Z","updatedAt":"2017-08-18T15:56:42.132Z","aclUpdatedAt":{"__type":"Date","iso":"2017-08-18T15:56:42.103Z"},"ACL":{"*":{"read":true},"ddjSujk68S":{"write":true}},"objectId":"6QR1Mse6UB","__type":"Object","className":"Character"},"story":{"__type":"Pointer","className":"Story","objectId":"wSVpM1oTOF"},"createdAt":"2016-08-30T19:23:10.778Z","updatedAt":"2016-08-30T19:23:10.778Z","objectId":"htjImIave4","__type":"Object","className":"Message"}]}}
+{
+  "result": {
+    "cached": false,
+    "messages": [
+      {
+        "text": "hello emily",
+        "ordinalInStory": 1,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:07.178Z",
+        "updatedAt": "2016-08-30T19:23:07.178Z",
+        "objectId": "505KrMkc4y",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "who's this?",
+        "ordinalInStory": 2,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:07.389Z",
+        "updatedAt": "2016-08-30T19:23:07.389Z",
+        "objectId": "w9zjAMmJgE",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "an old friend",
+        "ordinalInStory": 3,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:07.556Z",
+        "updatedAt": "2016-08-30T19:23:07.556Z",
+        "objectId": "5ELlC1iu6V",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "i have a message from your parents",
+        "ordinalInStory": 4,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:07.728Z",
+        "updatedAt": "2016-08-30T19:23:07.728Z",
+        "objectId": "7TtQhGkUAH",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "my parents are dead",
+        "ordinalInStory": 5,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:07.950Z",
+        "updatedAt": "2016-08-30T19:23:07.950Z",
+        "objectId": "itAEZu9pxF",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "i know how they died, emily",
+        "ordinalInStory": 6,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.123Z",
+        "updatedAt": "2016-08-30T19:23:08.123Z",
+        "objectId": "fIvkaR11Z6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "how do you know my name?",
+        "ordinalInStory": 7,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.298Z",
+        "updatedAt": "2016-08-30T19:23:08.298Z",
+        "objectId": "nLpl05sJV6",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "i know many things",
+        "ordinalInStory": 8,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.455Z",
+        "updatedAt": "2016-08-30T19:23:08.455Z",
+        "objectId": "l6xKgcih6S",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "i know where you are right now",
+        "ordinalInStory": 9,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.624Z",
+        "updatedAt": "2016-08-30T19:23:08.624Z",
+        "objectId": "tqxAi2tcHg",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "and i know what happens to you at night",
+        "ordinalInStory": 10,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.788Z",
+        "updatedAt": "2016-08-30T19:23:08.788Z",
+        "objectId": "n7TOSfZ2kC",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "who are you?",
+        "ordinalInStory": 11,
+        "isTypingIntroDuration": -1,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:08.960Z",
+        "updatedAt": "2016-08-30T19:23:08.960Z",
+        "objectId": "6zlXLyAcnA",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "no time to explain. your life is in danger",
+        "ordinalInStory": 12,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:09.134Z",
+        "updatedAt": "2016-08-30T19:23:09.134Z",
+        "objectId": "ubCUqaSSdO",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "you must do as i say",
+        "ordinalInStory": 13,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:09.301Z",
+        "updatedAt": "2016-08-30T19:23:09.301Z",
+        "objectId": "TvBhV45tDm",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "what do you want me to do?",
+        "ordinalInStory": 14,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:09.476Z",
+        "updatedAt": "2016-08-30T19:23:09.476Z",
+        "objectId": "o5rYwl6ski",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "turn around slowly",
+        "ordinalInStory": 15,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:09.735Z",
+        "updatedAt": "2016-08-30T19:23:09.735Z",
+        "objectId": "dgarsIx5yJ",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "do you see the man in the cloak?",
+        "ordinalInStory": 16,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:09.903Z",
+        "updatedAt": "2016-08-30T19:23:09.903Z",
+        "objectId": "rw8l6iNE0h",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "the man with the beard?",
+        "ordinalInStory": 17,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "emily",
+          "createdAt": "2016-08-30T19:23:03.078Z",
+          "updatedAt": "2017-08-18T15:56:42.134Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.084Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "yGiJ9AkvH3",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:10.066Z",
+        "updatedAt": "2016-08-30T19:23:10.066Z",
+        "objectId": "rhpHTl0g7o",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "yes. in 10 seconds, he will look at you, and",
+        "ordinalInStory": 18,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:10.243Z",
+        "updatedAt": "2016-08-30T19:23:10.243Z",
+        "objectId": "ZL0S6a2tEe",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "he will gesture subtly",
+        "ordinalInStory": 19,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:10.418Z",
+        "updatedAt": "2016-08-30T19:23:10.418Z",
+        "objectId": "o6TglD7Sun",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "watch him carefully",
+        "ordinalInStory": 20,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:10.598Z",
+        "updatedAt": "2016-08-30T19:23:10.598Z",
+        "objectId": "SJcfXdQkA8",
+        "__type": "Object",
+        "className": "Message"
+      },
+      {
+        "text": "5 seconds…",
+        "ordinalInStory": 21,
+        "isTypingIntroDuration": 0,
+        "sender": {
+          "name": "unknown",
+          "createdAt": "2016-08-30T19:23:02.914Z",
+          "updatedAt": "2017-08-18T15:56:42.132Z",
+          "aclUpdatedAt": {
+            "__type": "Date",
+            "iso": "2017-08-18T15:56:42.103Z"
+          },
+          "ACL": { "*": { "read": true }, "ddjSujk68S": { "write": true } },
+          "objectId": "6QR1Mse6UB",
+          "__type": "Object",
+          "className": "Character"
+        },
+        "story": {
+          "__type": "Pointer",
+          "className": "Story",
+          "objectId": "wSVpM1oTOF"
+        },
+        "createdAt": "2016-08-30T19:23:10.778Z",
+        "updatedAt": "2016-08-30T19:23:10.778Z",
+        "objectId": "htjImIave4",
+        "__type": "Object",
+        "className": "Message"
+      }
+    ]
+  }
+}

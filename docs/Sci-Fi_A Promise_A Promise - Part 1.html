@@ -1,0 +1,2367 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+    crossorigin="anonymous"></script>
+  <script src="semantic/dist/semantic.min.js"></script>
+
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+    }
+
+    .container{
+      margin-top: 10vh;
+      margin-left: auto;
+      margin-right: auto;  
+    }
+
+    .centered {
+      text-align: center;
+    }
+
+    .red-bubble {
+      background-color: #e1e9b7 !important;
+    }
+
+    .blue-bubble {
+      background-color: #bcd2d0 !important;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="ui segment">
+        <h1 class="ui header centered">
+        A Promise - Part 1
+        </h1>
+        <img src="https://d3b7s6bg6ueiky.cloudfront.net/mfp_9abc8e8ed91fc6cf5ba6849835fd6d56apromise.jpg" width="100%" />
+        <div class="ui medium relaxed list">
+          
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    You’re not watching the meteor shower?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It’s so pretty.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Wait a second. Let me go look.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Wow I never saw so many at once before.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I wish you were here. Then we could enjoy it together.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    After my meeting tomorrow I will be on the first plane home.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I miss you.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Holy shit!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What?!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What’s happening?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance what’s wrong?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I think it was an earthquake.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    The whole place just shook like crazy.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Are you okay?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Yeah, some dishes didn’t make it but I’m fine.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    What was that?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Shit.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Now what?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance tell me what’s going on.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Answer me!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Is everything okay. What’s happening there.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    More earthquakes.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Something on fire.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Be careful
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I don’t know what I would do without you.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Fine just I’m on the balcony.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What part of be careful can’t you understand?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I will be careful. But if the fire gets too bad our house will be burnt too.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Here’s an idea. Call the fire department.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Duh. I already did.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It looks crazy out there. Nobody even paying attention to the fire.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Holy shit!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    My heart can’t take much more of this.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    You won't believe me...
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Just tell me!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I think a meteor just hit the earth...
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It’s huge. Smoke is everywhere.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t get close to it.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    As if I would. Some people are going down there though.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Idiots with a deathwish.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Tell me about it. So weird.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    First the meteor shower, now a crash landing.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    It’s like something out of a bad SciFi movie.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Maybe it’s aliens.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Get real.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Weirder things have happened.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Well if they are coming for brains you’re safe.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Ha ha. Why do I date you again?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    You love me?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Debateable.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    You wound me.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I’m not actually wounded.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance where did you go?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t be childish.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It moved.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Huh?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    The meteor moved.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Some guys are poking at it and it moved.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    The idiocy of our species baffles me at times.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I think they cracked it open.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Something is moving. There’s purple smoke coming from it.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Seriously Lance go back inside. Lock the doors and windows.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    It could be dangerous.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I thought you didn’t believe in aliens.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I believe in radiation poison.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    You really want to be near the people poking at something that fell from the sky.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Talk about opening scene to bad shit about to happen.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Good point.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    The fire department is here.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Good they can handle things.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Hopefully.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Just go inside. All of that weird shit doesn’t set right with me.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m walking away now.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Wait cops are here too.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    That’s normally how the world works, sweetheart.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I don’t feel so good.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    You shouldn’t have gotten near that thing. Are you okay?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Maybe you should go to the ER.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It’s not that bad. I’m not sick I just...I feel wrong.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What do you mean you feel wrong?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m not sure. I just feel...off.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I can skip my meeting. I can be on the next plane home.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Don’t be silly. This is important to you. You need this meeting.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I need you more. If you’re sick I want to be there for you.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t go quiet on me. It’s makes me worry more.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Baby please.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m okay. I just blacked out a little.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    How you get blacked out and okay in the same sentence.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    You worry too much. I’m fine.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    At least call my mom. She’ll stay with you for the night.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    The last thing I want is to spend a night with your mother.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    She’s not that bad.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Says the son of the dragon lady.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    LOL. Okay she is that bad. But she’ll look after you when I can’t.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m not a kid. Plus I just walked back into the house.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Get some rest then.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m going to lay down. I will text you when I’m up again.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I love you.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I love you more.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item  ">
+              <div class="content ">
+                <div class="ui message ">
+                  
+                  <p class="centered">
+                    TEN HOURS LATER
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Did you really come home?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I told you I was fine.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Huh? What time is it?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    3 A.M. I told you not to come home.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance I’m still in my hotel. I’m going to come home right after the meeting.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Shit 3 A.M. I have to be up again at 5.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I heard someone.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Huh?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I heard someone one the door. It woke me up.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Call the police. Lock the bedroom door.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m calling now.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I’m scared.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Just stay in the room. Hide someone.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I can hear them.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They’re coming upstairs.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Shit. I knew I should have come home.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    It hurts.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What hurts? Lance what’s going on.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    My head . . . it hurts.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They’re . . . They’re calling my name.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Who is?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What’s going on?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Who’s in the house?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I can’t. I don’t want to.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    Please don’t make me.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What are you talking about?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance talk to me.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    What’s happening?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They know my name.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They want me to open the door.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t open it.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Whatever you don’t don’t open the door.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They’re calling me.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    They want me to come.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Come on Lance you’re freaking me out.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Don’t do anything stupid.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item left floated ">
+              <div class="content left floated">
+                <div class="ui message red-bubble">
+                  
+                    <div class="header">
+                      Lance
+                    </div>
+                  
+                  <p class="">
+                    I don’t want to open the door.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Then don’t.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    Lance?
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    LANCE!
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I’m on my way home.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+            
+            <div class="item right floated ">
+              <div class="content right floated">
+                <div class="ui message blue-bubble">
+                  
+                    <div class="header">
+                      Mason
+                    </div>
+                  
+                  <p class="">
+                    I’ll be there. I promise.
+                  </p>
+                </div>
+              </div>
+            </div>
+            
+
+        </div>
+      </div>
+    </div> 
+</body>
+
+</html>
